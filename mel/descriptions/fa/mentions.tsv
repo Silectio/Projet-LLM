@@ -1,0 +1,536 @@
+docid	position	length	mention	url	lang	qid	qid_in_refs	freq_bin
+fa-9772	487	21	تیم روبین کازان روسیه	http://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B4%DA%AF%D8%A7%D9%87_%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84_%D8%B1%D9%88%D8%A8%DB%8C%D9%86_%DA%A9%D8%A7%D8%B2%D8%A7%D9%86	fa	Q170040	True	4
+fa-9826	227	8	بارسلونا	http://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B4%DA%AF%D8%A7%D9%87_%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84_%D8%A8%D8%A7%D8%B1%D8%B3%D9%84%D9%88%D9%86%D8%A7	fa	Q7156	True	5
+fa-9826	254	11	رئال مادرید	http://fa.wikipedia.org/wiki/%D8%B1%D8%A6%D8%A7%D9%84_%D9%85%D8%A7%D8%AF%D8%B1%DB%8C%D8%AF	fa	Q8682	True	5
+fa-9966	81	7	انگلیسی	http://fa.wikipedia.org/wiki/%D8%B2%D8%A8%D8%A7%D9%86_%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3%DB%8C	fa	Q1860	True	5
+fa-66	34	14	آصف علی زرداری	http://fa.wikipedia.org/wiki/%D8%A2%D8%B5%D9%81_%D8%B9%D9%84%DB%8C_%D8%B2%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C	fa	Q57373	True	4
+fa-66	55	16	حزب مردم پاکستان	http://fa.wikipedia.org/wiki/%D8%AD%D8%B2%D8%A8_%D9%85%D8%B1%D8%AF%D9%85_%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86	fa	Q186591	True	4
+fa-68	88	10	شام غریبان	http://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%85_%D8%BA%D8%B1%DB%8C%D8%A8%D8%A7%D9%86	fa	Q5623743	False	2
+fa-78	328	6	جانباز	http://fa.wikipedia.org/wiki/%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%B2	fa	Q22947771	True	2
+fa-78	464	8	لاریجانی	http://fa.wikipedia.org/wiki/%D8%B9%D9%84%DB%8C_%D9%84%D8%A7%D8%B1%DB%8C%D8%AC%D8%A7%D9%86%DB%8C	fa	Q336363	True	3
+fa-79	17	8	جان ویلر	http://fa.wikipedia.org/wiki/%D8%AC%D8%A7%D9%86_%D9%88%DB%8C%D9%84%D8%B1	fa	Q202631	True	4
+fa-81	35	10	عبدالله گل	http://fa.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87_%DA%AF%D9%84	fa	Q42852	True	4
+fa-81	54	12	سرژ سرکیسیان	http://fa.wikipedia.org/wiki/%D8%B3%D8%B1%DA%98_%D8%B3%D8%B1%DA%A9%DB%8C%D8%B3%DB%8C%D8%A7%D9%86	fa	Q612803	True	4
+fa-81	79	8	ارمنستان	http://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%85%D9%86%D8%B3%D8%AA%D8%A7%D9%86	fa	Q399	True	5
+fa-81	176	27	رابطه دیپلماتیک این دو کشور	http://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%A7%D8%A8%D8%B7_%D8%A7%D8%B1%D9%85%D9%86%D8%B3%D8%AA%D8%A7%D9%86_%D9%88_%D8%AA%D8%B1%DA%A9%DB%8C%D9%87	fa	Q2606469	True	2
+fa-81	211	4	۱۹۹۱	http://fa.wikipedia.org/wiki/%DB%B1%DB%B9%DB%B9%DB%B1_(%D9%85%DB%8C%D9%84%D8%A7%D8%AF%DB%8C)	fa	Q2062	True	0
+fa-81	253	12	کشتار ارامنه	http://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D8%A7%D8%B1_%D8%A7%D8%B1%D8%A7%D9%85%D9%86%D9%87	fa	Q80034	True	5
+fa-84	33	8	علی دایی	http://fa.wikipedia.org/wiki/%D8%B9%D9%84%DB%8C_%D8%AF%D8%A7%DB%8C%DB%8C	fa	Q159622	True	3
+fa-84	54	9	مایلی کهن	http://fa.wikipedia.org/wiki/%D9%85%D8%A7%DB%8C%D9%84%DB%8C_%DA%A9%D9%87%D9%86	fa	Q3944278	True	2
+fa-85	27	13	نیلوفرهای آبی	http://fa.wikipedia.org/wiki/%D9%86%DB%8C%D9%84%D9%88%D9%81%D8%B1%D9%87%D8%A7%DB%8C_%D8%A2%D8%A8%DB%8C	fa	Q1189907	True	3
+fa-85	45	9	کلود مونه	http://fa.wikipedia.org/wiki/%DA%A9%D9%84%D9%88%D8%AF_%D9%85%D9%88%D9%86%D9%87	fa	Q296	True	4
+fa-85	84	11	حراج کریستی	http://fa.wikipedia.org/wiki/%D8%AD%D8%B1%D8%A7%D8%AC_%DA%A9%D8%B1%DB%8C%D8%B3%D8%AA%DB%8C	fa	Q503176	True	4
+fa-85	96	4	لندن	http://fa.wikipedia.org/wiki/%D9%84%D9%86%D8%AF%D9%86	fa	Q84	True	5
+fa-97	166	15	کادیلاک اسکالید	http://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%AF%DB%8C%D9%84%D8%A7%DA%A9_%D8%A7%D8%B3%DA%A9%D8%A7%D9%84%DB%8C%D8%AF	fa	Q830369	True	3
+fa-97	894	10	صفحهٔ جشنی	http://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D8%AC%D8%B4%D9%86_%DB%B1%DB%B0%DB%B0_%D9%87%D8%B2%D8%A7%D8%B1%D9%85%DB%8C%D9%86_%D9%85%D9%82%D8%A7%D9%84%D9%87	fa	Q21707082	False	0
+fa-777	21	12	بنوا مندلبرو	http://fa.wikipedia.org/wiki/%D8%A8%D9%86%D9%88%D8%A7_%D9%85%D9%86%D8%AF%D9%84%D8%A8%D8%B1%D9%88	fa	Q101740	True	3
+fa-777	83	5	برخال	http://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AE%D8%A7%D9%84	fa	Q81392	True	4
+fa-966	103	17	انتخابات پارلمانی	http://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA_%D9%BE%D8%A7%D8%B1%D9%84%D9%85%D8%A7%D9%86%DB%8C_%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86_(%DB%B1%DB%B3%DB%B8%DB%B9)	fa	Q1754798	True	2
+fa-973	72	4	ارتش	http://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AA%D8%B4_%D8%A7%DB%8C%D8%A7%D9%84%D8%A7%D8%AA_%D9%85%D8%AA%D8%AD%D8%AF%D9%87	fa	Q11211	True	5
+fa-1019	82	7	فیلیپین	http://fa.wikipedia.org/wiki/%D9%81%DB%8C%D9%84%DB%8C%D9%BE%DB%8C%D9%86	fa	Q928	True	5
+fa-1325	62	23	شیخ صقر بن محمد القاسمی	http://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D8%AE_%D8%B5%D9%82%D8%B1_%D8%A8%D9%86_%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D9%82%D8%A7%D8%B3%D9%85%DB%8C	fa	Q1380993	True	2
+fa-1325	91	10	رأس‌الخیمه	http://fa.wikipedia.org/wiki/%D8%B1%D8%A3%D8%B3%E2%80%8C%D8%A7%D9%84%D8%AE%DB%8C%D9%85%D9%87	fa	Q170024	True	4
+fa-1325	119	17	امارات متحده عربی	http://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA_%D9%85%D8%AA%D8%AD%D8%AF%D9%87_%D8%B9%D8%B1%D8%A8%DB%8C	fa	Q878	True	5
+fa-1325	221	17	امارات متحده عربی	http://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA_%D9%85%D8%AA%D8%AD%D8%AF%D9%87_%D8%B9%D8%B1%D8%A8%DB%8C	fa	Q878	True	5
+fa-1325	272	10	رأس‌الخیمه	http://fa.wikipedia.org/wiki/%D8%B1%D8%A3%D8%B3%E2%80%8C%D8%A7%D9%84%D8%AE%DB%8C%D9%85%D9%87	fa	Q170024	True	4
+fa-1325	326	17	امارات متحده عربی	http://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA_%D9%85%D8%AA%D8%AD%D8%AF%D9%87_%D8%B9%D8%B1%D8%A8%DB%8C	fa	Q878	True	5
+fa-1388	153	5	آلمان	http://fa.wikipedia.org/wiki/%D8%A2%D9%84%D9%85%D8%A7%D9%86	fa	Q183	True	5
+fa-1388	265	14	نیکولا سارکوزی	http://fa.wikipedia.org/wiki/%D9%86%DB%8C%DA%A9%D9%88%D9%84%D8%A7_%D8%B3%D8%A7%D8%B1%DA%A9%D9%88%D8%B2%DB%8C	fa	Q329	True	5
+fa-1388	301	12	باراک اوباما	http://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B1%D8%A7%DA%A9_%D8%A7%D9%88%D8%A8%D8%A7%D9%85%D8%A7	fa	Q76	True	5
+fa-1388	335	15	رجب طیب اردوغان	http://fa.wikipedia.org/wiki/%D8%B1%D8%AC%D8%A8_%D8%B7%DB%8C%D8%A8_%D8%A7%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86	fa	Q39259	True	4
+fa-1394	115	24	دانشگاه علوم پزشکی تهران	http://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D8%B9%D9%84%D9%88%D9%85_%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C_%D8%AA%D9%87%D8%B1%D8%A7%D9%86	fa	Q7694901	True	3
+fa-1394	182	29	دانشگاه علوم پزشکی شهید بهشتی	http://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D8%B9%D9%84%D9%88%D9%85_%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C_%D8%B4%D9%87%DB%8C%D8%AF_%D8%A8%D9%87%D8%B4%D8%AA%DB%8C	fa	Q637387	True	2
+fa-1444	103	12	جولیان آسانژ	http://fa.wikipedia.org/wiki/%D8%AC%D9%88%D9%84%DB%8C%D8%A7%D9%86_%D8%A2%D8%B3%D8%A7%D9%86%DA%98	fa	Q360	True	4
+fa-1444	121	9	ویکی‌لیکس	http://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%84%DB%8C%DA%A9%D8%B3	fa	Q359	True	4
+fa-1731	32	30	شانزدهمین دوره بازی‌های آسیایی	http://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%DB%8C%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C_%DB%B2%DB%B0%DB%B1%DB%B0	fa	Q244322	True	4
+fa-1731	126	7	گوانگژو	http://fa.wikipedia.org/wiki/%DA%AF%D9%88%D8%A7%D9%86%DA%AF%DA%98%D9%88	fa	Q16572	True	5
+fa-1732	90	10	سازمان ملل	http://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86_%D9%85%D9%84%D9%84	fa	Q1065	True	5
+fa-1732	132	9	کره شمالی	http://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%87_%D8%B4%D9%85%D8%A7%D9%84%DB%8C	fa	Q423	True	5
+fa-1814	48	6	دایملر	http://fa.wikipedia.org/wiki/%D8%AF%D8%A7%DB%8C%D9%85%D9%84%D8%B1_%D8%A2_%DA%AF	fa	Q27530	True	4
+fa-1814	398	9	مرسدس بنز	http://fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%B3%D8%AF%D8%B3_%D8%A8%D9%86%D8%B2	fa	Q36008	True	5
+fa-1817	329	6	سان‌دا	http://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D9%86%E2%80%8C%D8%AF%D8%A7	fa	Q752511	True	3
+fa-1819	43	21	عباس جعفری دولت‌آبادی	http://fa.wikipedia.org/wiki/%D8%B9%D8%A8%D8%A7%D8%B3_%D8%AC%D8%B9%D9%81%D8%B1%DB%8C_%D8%AF%D9%88%D9%84%D8%AA%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF%DB%8C	fa	Q5868658	False	2
+fa-1911	71	9	کره جنوبی	http://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%87_%D8%AC%D9%86%D9%88%D8%A8%DB%8C	fa	Q884	True	5
+fa-1911	109	9	کره شمالی	http://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%87_%D8%B4%D9%85%D8%A7%D9%84%DB%8C	fa	Q423	True	5
+fa-1911	424	15	جنگ سه ساله کره	http://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF_%DA%A9%D8%B1%D9%87	fa	Q8663	True	5
+fa-1914	155	7	القاعده	http://fa.wikipedia.org/wiki/%D8%A7%D9%84%D9%82%D8%A7%D8%B9%D8%AF%D9%87	fa	Q34490	True	5
+fa-1930	82	7	شانگهای	http://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%86%DA%AF%D9%87%D8%A7%DB%8C	fa	Q8686	True	5
+fa-1931	67	6	نیجریه	http://fa.wikipedia.org/wiki/%D9%86%DB%8C%D8%AC%D8%B1%DB%8C%D9%87	fa	Q1033	True	5
+fa-1931	223	11	شورای امنیت	http://fa.wikipedia.org/wiki/%D8%B4%D9%88%D8%B1%D8%A7%DB%8C_%D8%A7%D9%85%D9%86%DB%8C%D8%AA	fa	Q37470	True	5
+fa-1948	81	6	فاریاب	http://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%DB%8C%D8%A7%D8%A8_(%D8%B4%D9%87%D8%B1)	fa	Q588171	True	2
+fa-1948	88	5	کرمان	http://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D8%B1%D9%85%D8%A7%D9%86	fa	Q165352	True	5
+fa-1956	66	10	رابرت گیتس	http://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D8%A8%D8%B1%D8%AA_%DA%AF%DB%8C%D8%AA%D8%B3	fa	Q212979	True	4
+fa-1956	400	12	باراک اوباما	http://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B1%D8%A7%DA%A9_%D8%A7%D9%88%D8%A8%D8%A7%D9%85%D8%A7	fa	Q76	True	5
+fa-1957	107	16	زندان گوانتانامو	http://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AF%D8%A7%D9%86_%DA%AF%D9%88%D8%A7%D9%86%D8%AA%D8%A7%D9%86%D8%A7%D9%85%D9%88	fa	Q357	True	4
+fa-2123	78	10	سازمان ملل	http://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86_%D9%85%D9%84%D9%84	fa	Q1065	True	5
+fa-2231	113	5	برزیل	http://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%B2%DB%8C%D9%84	fa	Q155	True	5
+fa-2231	273	9	تاجیکستان	http://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D8%AC%DB%8C%DA%A9%D8%B3%D8%AA%D8%A7%D9%86	fa	Q863	True	5
+fa-2231	284	7	کریباتی	http://fa.wikipedia.org/wiki/%DA%A9%D8%B1%DB%8C%D8%A8%D8%A7%D8%AA%DB%8C	fa	Q710	True	4
+fa-2231	294	12	جزایر مارشال	http://fa.wikipedia.org/wiki/%D8%AC%D8%B2%D8%A7%DB%8C%D8%B1_%D9%85%D8%A7%D8%B1%D8%B4%D8%A7%D9%84	fa	Q709	True	5
+fa-2231	334	11	صومعه گلاتی	http://en.wikipedia.org/wiki/Gelati_Monastery	fa	Q679979	True	3
+fa-2231	348	12	کلیسای بگرتی	http://en.wikipedia.org/wiki/Bagrati_Cathedral	fa	Q37222	True	3
+fa-2231	364	7	گرجستان	http://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D8%AC%D8%B3%D8%AA%D8%A7%D9%86	fa	Q230	True	5
+fa-2524	59	6	نیجریه	http://fa.wikipedia.org/wiki/%D9%86%DB%8C%D8%AC%D8%B1%DB%8C%D9%87	fa	Q1033	True	5
+fa-2525	59	13	میرحسین موسوی	http://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86_%D9%85%D9%88%D8%B3%D9%88%DB%8C	fa	Q217154	True	4
+fa-2525	200	8	جنبش سبز	http://fa.wikipedia.org/wiki/%D8%AC%D9%86%D8%A8%D8%B4_%D8%B3%D8%A8%D8%B2	fa	Q2626387	True	3
+fa-2672	371	13	محمد رویانیان	http://fa.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%B1%D9%88%DB%8C%D8%A7%D9%86%DB%8C%D8%A7%D9%86	fa	Q3661230	True	2
+fa-2679	31	6	گامبیا	http://fa.wikipedia.org/wiki/%DA%AF%D8%A7%D9%85%D8%A8%DB%8C%D8%A7	fa	Q1005	True	5
+fa-2694	330	19	سکینه محمدی آشتیانی	http://fa.wikipedia.org/wiki/%D8%B3%DA%A9%DB%8C%D9%86%D9%87_%D9%85%D8%AD%D9%85%D8%AF%DB%8C_%D8%A2%D8%B4%D8%AA%DB%8C%D8%A7%D9%86%DB%8C	fa	Q238524	True	2
+fa-2695	85	27	آژانس بین‌المللی انرژی اتمی	http://fa.wikipedia.org/wiki/%D8%A2%DA%98%D8%A7%D9%86%D8%B3_%D8%A8%DB%8C%D9%86%E2%80%8C%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C_%D8%A7%D9%86%D8%B1%DA%98%DB%8C_%D8%A7%D8%AA%D9%85%DB%8C	fa	Q41984	True	4
+fa-2697	74	8	نیوزیلند	http://fa.wikipedia.org/wiki/%D9%86%DB%8C%D9%88%D8%B2%DB%8C%D9%84%D9%86%D8%AF	fa	Q664	True	5
+fa-2707	50	16	سید علی خامنه‌ای	http://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%AF_%D8%B9%D9%84%DB%8C_%D8%AE%D8%A7%D9%85%D9%86%D9%87%E2%80%8C%D8%A7%DB%8C	fa	Q57336	True	4
+fa-2707	799	13	میرحسین موسوی	http://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86_%D9%85%D9%88%D8%B3%D9%88%DB%8C	fa	Q217154	True	4
+fa-2707	815	10	مهدی کروبی	http://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C_%DA%A9%D8%B1%D9%88%D8%A8%DB%8C	fa	Q315011	True	3
+fa-2709	555	7	بنگلادش	http://fa.wikipedia.org/wiki/%D8%A8%D9%86%DA%AF%D9%84%D8%A7%D8%AF%D8%B4	fa	Q902	True	5
+fa-2709	581	9	افغانستان	http://fa.wikipedia.org/wiki/%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86	fa	Q889	True	5
+fa-2712	40	8	جیمی ولز	http://fa.wikipedia.org/wiki/%D8%AC%DB%8C%D9%85%DB%8C_%D9%88%D9%84%D8%B2	fa	Q181	True	4
+fa-2712	60	9	ویکی مدیا	http://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C_%D9%85%D8%AF%DB%8C%D8%A7	fa	Q180	True	4
+fa-2712	73	9	ویکی پدیا	http://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C_%D9%BE%D8%AF%DB%8C%D8%A7	fa	Q52	True	5
+fa-2712	85	8	ویکی خبر	http://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C_%D8%AE%D8%A8%D8%B1	fa	Q964	True	3
+fa-2712	150	14	بی‌بی‌سی فارسی	http://fa.wikipedia.org/wiki/%D8%A8%D8%AE%D8%B4_%D9%81%D8%A7%D8%B1%D8%B3%DB%8C_%D8%A8%DB%8C%E2%80%8C%D8%A8%DB%8C%E2%80%8C%D8%B3%DB%8C	fa	Q4834893	True	3
+fa-2712	209	12	فرداد فرحزاد	http://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%AF%D8%A7%D8%AF_%D9%81%D8%B1%D8%AD%D8%B2%D8%A7%D8%AF	fa	Q5434881	True	1
+fa-2712	363	15	فرناز قاضی زاده	http://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%86%D8%A7%D8%B2_%D9%82%D8%A7%D8%B6%DB%8C%E2%80%8C%D8%B2%D8%A7%D8%AF%D9%87	fa	Q462282	True	1
+fa-2726	46	9	ویکی‌لیکس	http://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%84%DB%8C%DA%A9%D8%B3	fa	Q359	True	4
+fa-2730	103	24	دانشگاه شهید بهشتی تهران	http://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D8%B4%D9%87%DB%8C%D8%AF_%D8%A8%D9%87%D8%B4%D8%AA%DB%8C_%D8%AA%D9%87%D8%B1%D8%A7%D9%86	fa	Q609586	True	3
+fa-2731	44	8	بارسلونا	http://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B4%DA%AF%D8%A7%D9%87_%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84_%D8%A8%D8%A7%D8%B1%D8%B3%D9%84%D9%88%D9%86%D8%A7	fa	Q7156	True	5
+fa-2731	78	10	ال کلاسیکو	http://fa.wikipedia.org/wiki/%D8%A7%D9%84_%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9%D9%88	fa	Q484736	True	3
+fa-2731	95	11	رئال مادرید	http://fa.wikipedia.org/wiki/%D8%B1%D8%A6%D8%A7%D9%84_%D9%85%D8%A7%D8%AF%D8%B1%DB%8C%D8%AF	fa	Q8682	True	5
+fa-2787	35	9	آل پاچینو	http://fa.wikipedia.org/wiki/%D8%A2%D9%84_%D9%BE%D8%A7%DA%86%DB%8C%D9%86%D9%88	fa	Q41163	True	4
+fa-2787	91	19	فرانسیس فورد کوپولا	http://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D8%B3_%D9%81%D9%88%D8%B1%D8%AF_%DA%A9%D9%88%D9%BE%D9%88%D9%84%D8%A7	fa	Q56094	True	4
+fa-2787	270	9	آل پاچینو	http://fa.wikipedia.org/wiki/%D8%A2%D9%84_%D9%BE%D8%A7%DA%86%DB%8C%D9%86%D9%88	fa	Q41163	True	4
+fa-2787	542	8	لری کینگ	http://fa.wikipedia.org/wiki/%D9%84%D8%B1%DB%8C_%DA%A9%DB%8C%D9%86%DA%AF	fa	Q213430	True	4
+fa-2787	575	13	مارلون براندو	http://fa.wikipedia.org/wiki/%D9%85%D8%A7%D8%B1%D9%84%D9%88%D9%86_%D8%A8%D8%B1%D8%A7%D9%86%D8%AF%D9%88	fa	Q34012	True	4
+fa-2802	213	14	علی‌اکبر صالحی	http://fa.wikipedia.org/wiki/%D8%B9%D9%84%DB%8C%E2%80%8C%D8%A7%DA%A9%D8%A8%D8%B1_%D8%B5%D8%A7%D9%84%D8%AD%DB%8C	fa	Q283201	True	3
+fa-2802	248	16	وزارت امور خارجه	http://fa.wikipedia.org/wiki/%D9%88%D8%B2%D8%A7%D8%B1%D8%AA_%D8%A7%D9%85%D9%88%D8%B1_%D8%AE%D8%A7%D8%B1%D8%AC%D9%87_%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86	fa	Q2565708	True	3
+fa-2802	314	11	منوچهر متکی	http://fa.wikipedia.org/wiki/%D9%85%D9%86%D9%88%DA%86%D9%87%D8%B1_%D9%85%D8%AA%DA%A9%DB%8C	fa	Q374481	True	3
+fa-2802	1140	11	منوچهر متکی	http://fa.wikipedia.org/wiki/%D9%85%D9%86%D9%88%DA%86%D9%87%D8%B1_%D9%85%D8%AA%DA%A9%DB%8C	fa	Q374481	True	3
+fa-2802	1246	5	سنگال	http://fa.wikipedia.org/wiki/%D8%B3%D9%86%DA%AF%D8%A7%D9%84	fa	Q1041	True	5
+fa-2804	50	11	آناتومی گری	http://fa.wikipedia.org/wiki/%D8%A2%D9%86%D8%A7%D8%AA%D9%88%D9%85%DB%8C_%DA%AF%D8%B1%DB%8C_(%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87_%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86%DB%8C)	fa	Q438406	True	5
+fa-2804	524	11	آناتومی گری	http://fa.wikipedia.org/wiki/%D8%A2%D9%86%D8%A7%D8%AA%D9%88%D9%85%DB%8C_%DA%AF%D8%B1%DB%8C_(%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87_%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86%DB%8C)	fa	Q438406	True	5
+fa-2804	935	11	آناتومی گری	http://fa.wikipedia.org/wiki/%D8%A2%D9%86%D8%A7%D8%AA%D9%88%D9%85%DB%8C_%DA%AF%D8%B1%DB%8C_(%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87_%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86%DB%8C)	fa	Q438406	True	5
+fa-2804	1247	11	آناتومی گری	http://fa.wikipedia.org/wiki/%D8%A2%D9%86%D8%A7%D8%AA%D9%88%D9%85%DB%8C_%DA%AF%D8%B1%DB%8C_(%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87_%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86%DB%8C)	fa	Q438406	True	5
+fa-2807	177	6	شیعیان	http://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D8%B9%D9%87	fa	Q9585	True	5
+fa-2913	35	18	لئوناردو دی‌کاپریو	http://fa.wikipedia.org/wiki/%D9%84%D8%A6%D9%88%D9%86%D8%A7%D8%B1%D8%AF%D9%88_%D8%AF%DB%8C%E2%80%8C%DA%A9%D8%A7%D9%BE%D8%B1%DB%8C%D9%88	fa	Q38111	True	4
+fa-2913	93	10	جزیره شاتر	http://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%D8%B4%D8%A7%D8%AA%D8%B1_(%D9%81%DB%8C%D9%84%D9%85)	fa	Q210364	True	3
+fa-2913	109	6	سرآغاز	http://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A2%D8%BA%D8%A7%D8%B2	fa	Q25188	True	4
+fa-2913	196	6	سرآغاز	http://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A2%D8%BA%D8%A7%D8%B2	fa	Q25188	True	4
+fa-2913	565	20	آلیس در سرزمین عجایب	http://fa.wikipedia.org/wiki/%D8%A2%D9%84%DB%8C%D8%B3_%D8%AF%D8%B1_%D8%B3%D8%B1%D8%B2%D9%85%DB%8C%D9%86_%D8%B9%D8%AC%D8%A7%DB%8C%D8%A8_(%D9%81%DB%8C%D9%84%D9%85_%DB%B2%DB%B0%DB%B1%DB%B0)	fa	Q174385	True	4
+fa-4842	52	17	سیدمسعود میرکاظمی	http://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%AF%D9%85%D8%B3%D8%B9%D9%88%D8%AF_%D9%85%DB%8C%D8%B1%DA%A9%D8%A7%D8%B8%D9%85%DB%8C	fa	Q6783882	True	2
+fa-4842	98	4	اوپک	http://fa.wikipedia.org/wiki/%D8%A7%D9%88%D9%BE%DA%A9	fa	Q7795	True	4
+fa-4842	138	15	میدان گازی خیام	http://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%AF%D8%A7%D9%86_%DA%AF%D8%A7%D8%B2%DB%8C_%D8%AE%DB%8C%D8%A7%D9%85	fa	Q5953133	True	1
+fa-4842	161	6	عسلویه	http://fa.wikipedia.org/wiki/%D8%B9%D8%B3%D9%84%D9%88%DB%8C%D9%87	fa	Q643944	True	3
+fa-4842	179	9	خلیج فارس	http://fa.wikipedia.org/wiki/%D8%AE%D9%84%DB%8C%D8%AC_%D9%81%D8%A7%D8%B1%D8%B3	fa	Q34675	True	5
+fa-4842	668	17	میدان گازی هالگان	http://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%AF%D8%A7%D9%86_%DA%AF%D8%A7%D8%B2%DB%8C_%D9%87%D8%A7%D9%84%DA%AF%D8%A7%D9%86	fa	Q5909932	True	1
+fa-4842	700	16	میدان نفتی سومار	http://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%AF%D8%A7%D9%86_%D9%86%D9%81%D8%AA%DB%8C_%D8%B3%D9%88%D9%85%D8%A7%D8%B1	fa	Q16050844	False	1
+fa-4845	49	10	سعید جلیلی	http://fa.wikipedia.org/wiki/%D8%B3%D8%B9%DB%8C%D8%AF_%D8%AC%D9%84%DB%8C%D9%84%DB%8C	fa	Q635059	True	3
+fa-4845	66	26	شورای عالی امنیت ملی ایران	http://fa.wikipedia.org/wiki/%D8%B4%D9%88%D8%B1%D8%A7%DB%8C_%D8%B9%D8%A7%D9%84%DB%8C_%D8%A7%D9%85%D9%86%DB%8C%D8%AA_%D9%85%D9%84%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86	fa	Q1551972	True	3
+fa-4845	124	6	اشپيگل	http://fa.wikipedia.org/wiki/%D8%A7%D8%B4%D9%BE%DB%8C%DA%AF%D9%84	fa	Q131478	True	5
+fa-4845	172	8	گروه ۱+۵	http://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%88%D9%87_%DB%B1%2B%DB%B5	fa	Q5291494	True	3
+fa-4845	184	8	استانبول	http://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84	fa	Q406	True	5
+fa-4845	527	15	معاهده ان پی تی	http://fa.wikipedia.org/wiki/%D9%BE%DB%8C%D9%85%D8%A7%D9%86%E2%80%8C%D9%86%D8%A7%D9%85%D9%87_%D9%85%D9%86%D8%B9_%DA%AF%D8%B3%D8%AA%D8%B1%D8%B4_%D8%B3%D9%84%D8%A7%D8%AD%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%87%D8%B3%D8%AA%D9%87%E2%80%8C%D8%A7%DB%8C	fa	Q186444	True	4
+fa-4845	835	19	قطعنامه شورای امنیت	http://fa.wikipedia.org/wiki/%D9%82%D8%B7%D8%B9%D9%86%D8%A7%D9%85%D9%87_%D8%B4%D9%88%D8%B1%D8%A7%DB%8C_%D8%A7%D9%85%D9%86%DB%8C%D8%AA	fa	Q877358	True	4
+fa-4845	961	11	شورای امنیت	http://fa.wikipedia.org/wiki/%D8%B4%D9%88%D8%B1%D8%A7%DB%8C_%D8%A7%D9%85%D9%86%DB%8C%D8%AA	fa	Q37470	True	5
+fa-4845	1074	6	آمریکا	http://fa.wikipedia.org/wiki/%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7	fa	Q30	True	5
+fa-4845	1083	7	اسرائیل	http://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84	fa	Q801	True	5
+fa-4845	1489	7	کلینتون	http://fa.wikipedia.org/wiki/%D9%87%DB%8C%D9%84%D8%A7%D8%B1%DB%8C_%DA%A9%D9%84%DB%8C%D9%86%D8%AA%D9%88%D9%86	fa	Q6294	True	5
+fa-4885	80	5	سودان	http://fa.wikipedia.org/wiki/%D8%B3%D9%88%D8%AF%D8%A7%D9%86	fa	Q1049	True	5
+fa-4885	240	4	جوبا	http://fa.wikipedia.org/wiki/%D8%AC%D9%88%D8%A8%D8%A7	fa	Q1947	True	5
+fa-4885	530	4	ابیه	http://fa.wikipedia.org/wiki/%D8%A7%D8%A8%DB%8C%D9%87	fa	Q2821657	True	1
+fa-4885	1309	12	باراک اوباما	http://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B1%D8%A7%DA%A9_%D8%A7%D9%88%D8%A8%D8%A7%D9%85%D8%A7	fa	Q76	True	5
+fa-4885	1335	6	آمریکا	http://fa.wikipedia.org/wiki/%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7	fa	Q30	True	5
+fa-4885	1582	13	اتحاديه اروپا	http://fa.wikipedia.org/wiki/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87_%D8%A7%D8%B1%D9%88%D9%BE%D8%A7	fa	Q458	True	5
+fa-4893	64	6	بن علی	http://fa.wikipedia.org/wiki/%D8%B2%DB%8C%D9%86%E2%80%8C%D8%A7%D9%84%D8%B9%D8%A7%D8%A8%D8%AF%DB%8C%D9%86_%D8%A8%D9%86_%D8%B9%D9%84%DB%8C	fa	Q204487	True	4
+fa-4893	272	6	بن علی	http://fa.wikipedia.org/wiki/%D8%B2%DB%8C%D9%86%E2%80%8C%D8%A7%D9%84%D8%B9%D8%A7%D8%A8%D8%AF%DB%8C%D9%86_%D8%A8%D9%86_%D8%B9%D9%84%DB%8C	fa	Q204487	True	4
+fa-4893	418	6	بن علی	http://fa.wikipedia.org/wiki/%D8%B2%DB%8C%D9%86%E2%80%8C%D8%A7%D9%84%D8%B9%D8%A7%D8%A8%D8%AF%DB%8C%D9%86_%D8%A8%D9%86_%D8%B9%D9%84%DB%8C	fa	Q204487	True	4
+fa-4893	682	6	بن علی	http://fa.wikipedia.org/wiki/%D8%B2%DB%8C%D9%86%E2%80%8C%D8%A7%D9%84%D8%B9%D8%A7%D8%A8%D8%AF%DB%8C%D9%86_%D8%A8%D9%86_%D8%B9%D9%84%DB%8C	fa	Q204487	True	4
+fa-4893	1194	12	کشورهای عربی	http://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%A7%D9%86_%D8%B9%D8%B1%D8%A8	fa	Q143487	True	5
+fa-4893	1260	4	مصری	http://fa.wikipedia.org/wiki/%D9%85%D8%B5%D8%B1	fa	Q79	True	5
+fa-4893	1326	5	قاهره	http://fa.wikipedia.org/wiki/%D9%82%D8%A7%D9%87%D8%B1%D9%87	fa	Q85	True	5
+fa-4893	1387	8	الجزایری	http://fa.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%DB%8C%D8%B1	fa	Q262	True	5
+fa-4893	1568	7	اسرائیل	http://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84	fa	Q801	True	5
+fa-4893	1682	12	اسلام‌گرایان	http://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D9%84%D8%A7%D9%85%E2%80%8C%DA%AF%D8%B1%D8%A7%DB%8C%D8%A7%D9%86	fa	Q189746	True	4
+fa-4893	1948	4	عربی	http://fa.wikipedia.org/wiki/%D8%B9%D8%B1%D8%A8%DB%8C	fa	Q13955	True	5
+fa-4893	1955	7	فرانسوی	http://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%88%DB%8C	fa	Q4492684	True	3
+fa-4893	1980	5	اسلام	http://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D9%84%D8%A7%D9%85	fa	Q432	True	5
+fa-4916	75	5	سوئیس	http://fa.wikipedia.org/wiki/%D8%B3%D9%88%D8%A6%DB%8C%D8%B3	fa	Q39	True	5
+fa-4916	139	6	آمریکا	http://fa.wikipedia.org/wiki/%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7	fa	Q30	True	5
+fa-4916	149	3	ژنو	http://fa.wikipedia.org/wiki/%DA%98%D9%86%D9%88	fa	Q71	True	5
+fa-4916	778	6	ایسلند	http://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B3%D9%84%D9%86%D8%AF	fa	Q189	True	5
+fa-4916	786	4	نروژ	http://fa.wikipedia.org/wiki/%D9%86%D8%B1%D9%88%DA%98	fa	Q20	True	5
+fa-4916	793	4	سوئد	http://fa.wikipedia.org/wiki/%D8%B3%D9%88%D8%A6%D8%AF	fa	Q34	True	5
+fa-4916	816	14	خبرگزاری آلمان	http://fa.wikipedia.org/wiki/%D8%AE%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1%DB%8C_%D8%A2%D9%84%D9%85%D8%A7%D9%86	fa	Q312653	True	3
+fa-4916	909	9	ویکی‌لیکس	http://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%84%DB%8C%DA%A9%D8%B3	fa	Q359	True	4
+fa-4916	930	6	آمریکا	http://fa.wikipedia.org/wiki/%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7	fa	Q30	True	5
+fa-4916	1175	4	نروژ	http://fa.wikipedia.org/wiki/%D9%86%D8%B1%D9%88%DA%98	fa	Q20	True	5
+fa-4916	1181	4	سوئد	http://fa.wikipedia.org/wiki/%D8%B3%D9%88%D8%A6%D8%AF	fa	Q34	True	5
+fa-4916	1188	7	دانمارک	http://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D9%85%D8%A7%D8%B1%DA%A9	fa	Q35	True	5
+fa-4916	1227	7	دانمارک	http://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D9%85%D8%A7%D8%B1%DA%A9	fa	Q35	True	5
+fa-4916	1237	4	نروژ	http://fa.wikipedia.org/wiki/%D9%86%D8%B1%D9%88%DA%98	fa	Q20	True	5
+fa-4920	374	9	آب‌درمانی	http://fa.wikipedia.org/wiki/%D8%A2%D8%A8%E2%80%8C%D8%AF%D8%B1%D9%85%D8%A7%D9%86%DB%8C	fa	Q622676	True	4
+fa-4920	386	3	شنا	http://fa.wikipedia.org/wiki/%D8%B4%D9%86%D8%A7	fa	Q31066488	False	2
+fa-4926	45	8	زلزله‌ای	http://fa.wikipedia.org/wiki/%D8%B2%D9%84%D8%B2%D9%84%D9%87	fa	Q7944	True	5
+fa-4926	108	7	پاکستان	http://fa.wikipedia.org/wiki/%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86	fa	Q843	True	5
+fa-4926	119	14	ایالت بلوچستان	http://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%A7%D9%84%D8%AA_%D8%A8%D9%84%D9%88%DA%86%D8%B3%D8%AA%D8%A7%D9%86	fa	Q163239	True	4
+fa-4926	194	7	دهلی نو	http://fa.wikipedia.org/wiki/%D8%AF%D9%87%D9%84%DB%8C_%D9%86%D9%88	fa	Q987	True	5
+fa-4926	208	3	هند	http://fa.wikipedia.org/wiki/%D9%87%D9%86%D8%AF	fa	Q668	True	5
+fa-4926	214	3	دبی	http://fa.wikipedia.org/wiki/%D8%AF%D8%A8%DB%8C	fa	Q612	True	5
+fa-4926	221	17	امارات متحده عربی	http://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA_%D9%85%D8%AA%D8%AD%D8%AF%D9%87_%D8%B9%D8%B1%D8%A8%DB%8C	fa	Q878	True	5
+fa-4926	418	9	افغانستان	http://fa.wikipedia.org/wiki/%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86	fa	Q889	True	5
+fa-4926	508	18	آزمایش‌های هسته‌ای	http://fa.wikipedia.org/wiki/%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4_%D9%87%D8%B3%D8%AA%D9%87%E2%80%8C%D8%A7%DB%8C	fa	Q210112	True	4
+fa-4998	89	4	اردن	http://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D9%86	fa	Q810	True	5
+fa-4998	180	12	سمیر الرفاعی	http://fa.wikipedia.org/wiki/%D8%B3%D9%85%DB%8C%D8%B1_%D8%A7%D9%84%D8%B1%D9%81%D8%A7%D8%B9%DB%8C	fa	Q467852	True	2
+fa-4998	285	4	تونس	http://fa.wikipedia.org/wiki/%D8%AA%D9%88%D9%86%D8%B3	fa	Q948	True	5
+fa-4998	320	19	زین‌العابدین بن علی	http://fa.wikipedia.org/wiki/%D8%B2%DB%8C%D9%86%E2%80%8C%D8%A7%D9%84%D8%B9%D8%A7%D8%A8%D8%AF%DB%8C%D9%86_%D8%A8%D9%86_%D8%B9%D9%84%DB%8C	fa	Q204487	True	4
+fa-5204	77	13	میرحسین موسوی	http://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86_%D9%85%D9%88%D8%B3%D9%88%DB%8C	fa	Q217154	True	4
+fa-5204	93	10	مهدی کروبی	http://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C_%DA%A9%D8%B1%D9%88%D8%A8%DB%8C	fa	Q315011	True	3
+fa-5245	111	13	میرحسین موسوی	http://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86_%D9%85%D9%88%D8%B3%D9%88%DB%8C	fa	Q217154	True	4
+fa-5245	127	10	مهدی کروبی	http://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C_%DA%A9%D8%B1%D9%88%D8%A8%DB%8C	fa	Q315011	True	3
+fa-5785	38	14	اخوان‌المسلمین	http://fa.wikipedia.org/wiki/%D8%A7%D8%AE%D9%88%D8%A7%D9%86%E2%80%8C%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%DB%8C%D9%86	fa	Q133207	True	4
+fa-5785	98	10	حسنی مبارک	http://fa.wikipedia.org/wiki/%D8%AD%D8%B3%D9%86%DB%8C_%D9%85%D8%A8%D8%A7%D8%B1%DA%A9	fa	Q34105	True	4
+fa-5785	214	12	کودتای نظامی	http://fa.wikipedia.org/wiki/%DA%A9%D9%88%D8%AF%D8%AA%D8%A7%DB%8C_%D9%86%D8%B8%D8%A7%D9%85%DB%8C	fa	Q45382	True	5
+fa-5785	452	10	عمر سلیمان	http://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%B1_%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86	fa	Q223568	True	3
+fa-5785	1012	11	میدان تحریر	http://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%AF%D8%A7%D9%86_%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1	fa	Q12061	True	4
+fa-5973	35	10	حسنی مبارک	http://fa.wikipedia.org/wiki/%D8%AD%D8%B3%D9%86%DB%8C_%D9%85%D8%A8%D8%A7%D8%B1%DA%A9	fa	Q34105	True	4
+fa-5973	69	5	قاهره	http://fa.wikipedia.org/wiki/%D9%82%D8%A7%D9%87%D8%B1%D9%87	fa	Q85	True	5
+fa-5973	85	9	شرم الشیخ	http://fa.wikipedia.org/wiki/%D8%B4%D8%B1%D9%85_%D8%A7%D9%84%D8%B4%DB%8C%D8%AE	fa	Q644	True	4
+fa-5973	117	9	دریای سرخ	http://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C_%D8%B3%D8%B1%D8%AE	fa	Q23406	True	5
+fa-5973	156	11	حسام بدراوی	http://fa.wikipedia.org/wiki/%D8%AD%D8%B3%D8%A7%D9%85_%D8%A8%D8%AF%D8%B1%D8%A7%D9%88%DB%8C	fa	Q981887	True	2
+fa-5973	547	3	مصر	http://fa.wikipedia.org/wiki/%D9%85%D8%B5%D8%B1	fa	Q79	True	5
+fa-5973	939	11	میدان تحریر	http://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%AF%D8%A7%D9%86_%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1	fa	Q12061	True	4
+fa-5973	1244	10	حسنی مبارک	http://fa.wikipedia.org/wiki/%D8%AD%D8%B3%D9%86%DB%8C_%D9%85%D8%A8%D8%A7%D8%B1%DA%A9	fa	Q34105	True	4
+fa-5983	95	13	میرحسین موسوی	http://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86_%D9%85%D9%88%D8%B3%D9%88%DB%8C	fa	Q217154	True	4
+fa-5983	111	10	مهدی کروبی	http://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C_%DA%A9%D8%B1%D9%88%D8%A8%DB%8C	fa	Q315011	True	3
+fa-6070	97	5	بحرین	http://fa.wikipedia.org/wiki/%D8%A8%D8%AD%D8%B1%DB%8C%D9%86	fa	Q398	True	5
+fa-6070	107	20	حمد بن عیسی آل خلیفه	http://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D8%B9%DB%8C%D8%B3%DB%8C_%D8%A2%D9%84_%D8%AE%D9%84%DB%8C%D9%81%D9%87	fa	Q57352	True	3
+fa-6070	358	5	منامه	http://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%A7%D9%85%D9%87	fa	Q3882	True	4
+fa-6076	108	9	صانع ژاله	http://fa.wikipedia.org/wiki/%D8%B5%D8%A7%D9%86%D8%B9_%DA%98%D8%A7%D9%84%D9%87	fa	Q3295928	True	2
+fa-6095	1150	18	علی‌اکبر ناطق نوری	http://fa.wikipedia.org/wiki/%D8%B9%D9%84%DB%8C%E2%80%8C%D8%A7%DA%A9%D8%A8%D8%B1_%D9%86%D8%A7%D8%B7%D9%82_%D9%86%D9%88%D8%B1%DB%8C	fa	Q349096	True	3
+fa-6096	86	5	مبارک	http://fa.wikipedia.org/wiki/%D8%AD%D8%B3%D9%86%DB%8C_%D9%85%D8%A8%D8%A7%D8%B1%DA%A9	fa	Q34105	True	4
+fa-6096	319	5	ایلات	http://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84%D8%A7%D8%AA	fa	Q134762	True	4
+fa-6096	803	4	تبوک	http://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D9%88%DA%A9	fa	Q346090	True	2
+fa-6127	144	9	ماهی قرمز	http://fa.wikipedia.org/wiki/%D9%85%D8%A7%D9%87%DB%8C_%D9%82%D8%B1%D9%85%D8%B2	fa	Q123141	True	4
+fa-6139	29	7	العربیه	http://fa.wikipedia.org/wiki/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%DB%8C%D9%87	fa	Q310172	True	4
+fa-6139	51	10	حسنی مبارک	http://fa.wikipedia.org/wiki/%D8%AD%D8%B3%D9%86%DB%8C_%D9%85%D8%A8%D8%A7%D8%B1%DA%A9	fa	Q34105	True	4
+fa-6139	100	4	اغما	http://fa.wikipedia.org/wiki/%D8%A7%D8%BA%D9%85%D8%A7	fa	Q159557	True	4
+fa-6139	242	8	ان‌بی‌سی	http://fa.wikipedia.org/wiki/%D8%A7%D9%86%E2%80%8C%D8%A8%DB%8C%E2%80%8C%D8%B3%DB%8C	fa	Q13974	True	5
+fa-6139	492	2	غش	http://fa.wikipedia.org/wiki/%D8%BA%D8%B4	fa	Q180007	True	4
+fa-6139	574	7	افسردگی	http://fa.wikipedia.org/wiki/%D8%A7%D9%81%D8%B3%D8%B1%D8%AF%DA%AF%DB%8C	fa	Q211022	True	4
+fa-6145	87	12	جنبش ۶ آوریل	http://fa.wikipedia.org/wiki/%D8%AC%D9%86%D8%A8%D8%B4_%DB%B6_%D8%A2%D9%88%D8%B1%DB%8C%D9%84	fa	Q128864	True	3
+fa-6199	474	21	مجمع تشخیص مصلحت نظام	http://fa.wikipedia.org/wiki/%D9%85%D8%AC%D9%85%D8%B9_%D8%AA%D8%B4%D8%AE%DB%8C%D8%B5_%D9%85%D8%B5%D9%84%D8%AD%D8%AA_%D9%86%D8%B8%D8%A7%D9%85	fa	Q1422933	True	3
+fa-6202	58	4	لیبی	http://fa.wikipedia.org/wiki/%D9%84%DB%8C%D8%A8%DB%8C	fa	Q1016	True	5
+fa-6202	148	6	بنغازی	http://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%DB%8C	fa	Q40816	True	4
+fa-6204	67	13	میرحسین موسوی	http://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86_%D9%85%D9%88%D8%B3%D9%88%DB%8C	fa	Q217154	True	4
+fa-6204	89	11	زهرا رهنورد	http://fa.wikipedia.org/wiki/%D8%B2%D9%87%D8%B1%D8%A7_%D8%B1%D9%87%D9%86%D9%88%D8%B1%D8%AF	fa	Q144195	True	3
+fa-6206	91	11	شورای امنیت	http://fa.wikipedia.org/wiki/%D8%B4%D9%88%D8%B1%D8%A7%DB%8C_%D8%A7%D9%85%D9%86%DB%8C%D8%AA	fa	Q37470	True	5
+fa-6206	111	21	شهرک‌سازی‌های اسرائیل	http://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9_%DB%8C%D9%87%D9%88%D8%AF%DB%8C%E2%80%8C%D9%86%D8%B4%DB%8C%D9%86	fa	Q582706	True	4
+fa-6206	136	3	وتو	http://fa.wikipedia.org/wiki/%D8%AD%D9%82_%D9%88%D8%AA%D9%88_%D8%AF%D8%B1_%D8%B4%D9%88%D8%B1%D8%A7%DB%8C_%D8%A7%D9%85%D9%86%DB%8C%D8%AA_%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86_%D9%85%D9%84%D9%84_%D9%85%D8%AA%D8%AD%D8%AF	fa	Q1975651	True	3
+fa-6206	389	3	چین	http://fa.wikipedia.org/wiki/%DA%86%DB%8C%D9%86	fa	Q148	True	5
+fa-6206	394	5	روسیه	http://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B3%DB%8C%D9%87	fa	Q159	True	5
+fa-6206	401	6	انگلیس	http://fa.wikipedia.org/wiki/%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3	fa	Q21	True	5
+fa-6206	411	6	فرانسه	http://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87	fa	Q142	True	5
+fa-6206	480	5	برزیل	http://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%B2%DB%8C%D9%84	fa	Q155	True	5
+fa-6206	487	4	گابن	http://fa.wikipedia.org/wiki/%DA%AF%D8%A7%D8%A8%D9%86	fa	Q1000	True	5
+fa-6206	493	5	بوسنی	http://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D9%86%DB%8C	fa	Q225	True	5
+fa-6206	500	5	آلمان	http://fa.wikipedia.org/wiki/%D8%A2%D9%84%D9%85%D8%A7%D9%86	fa	Q183	True	5
+fa-6206	507	5	لبنان	http://fa.wikipedia.org/wiki/%D9%84%D8%A8%D9%86%D8%A7%D9%86	fa	Q822	True	5
+fa-6206	514	3	هند	http://fa.wikipedia.org/wiki/%D9%87%D9%86%D8%AF	fa	Q668	True	5
+fa-6206	519	6	نیجریه	http://fa.wikipedia.org/wiki/%D9%86%DB%8C%D8%AC%D8%B1%DB%8C%D9%87	fa	Q1033	True	5
+fa-6206	527	6	پرتغال	http://fa.wikipedia.org/wiki/%D9%BE%D8%B1%D8%AA%D8%BA%D8%A7%D9%84	fa	Q45	True	5
+fa-6206	535	6	کلمبیا	http://fa.wikipedia.org/wiki/%DA%A9%D9%84%D9%85%D8%A8%DB%8C%D8%A7	fa	Q739	True	5
+fa-6206	544	13	آفریقای جنوبی	http://fa.wikipedia.org/wiki/%D8%A2%D9%81%D8%B1%DB%8C%D9%82%D8%A7%DB%8C_%D8%AC%D9%86%D9%88%D8%A8%DB%8C	fa	Q258	True	5
+fa-6206	668	10	سوزان رایس	http://fa.wikipedia.org/wiki/%D8%B3%D9%88%D8%B2%D8%A7%D9%86_%D8%B1%D8%A7%DB%8C%D8%B3	fa	Q50612	True	3
+fa-6206	868	10	محمود عباس	http://fa.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D9%88%D8%AF_%D8%B9%D8%A8%D8%A7%D8%B3	fa	Q127998	True	4
+fa-6206	885	15	تشکیلات خودگران	http://fa.wikipedia.org/wiki/%D8%AA%D8%B4%DA%A9%DB%8C%D9%84%D8%A7%D8%AA_%D8%AE%D9%88%D8%AF%DA%AF%D8%B1%D8%AF%D8%A7%D9%86_%D9%81%D9%84%D8%B3%D8%B7%DB%8C%D9%86	fa	Q42620	True	4
+fa-6206	1102	14	هیلاری کلینتون	http://fa.wikipedia.org/wiki/%D9%87%DB%8C%D9%84%D8%A7%D8%B1%DB%8C_%DA%A9%D9%84%DB%8C%D9%86%D8%AA%D9%88%D9%86	fa	Q6294	True	5
+fa-6241	155	4	لیبی	http://fa.wikipedia.org/wiki/%D9%84%DB%8C%D8%A8%DB%8C	fa	Q1016	True	5
+fa-6241	770	6	بنغازی	http://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%DB%8C	fa	Q40816	True	4
+fa-6245	92	4	لیبی	http://fa.wikipedia.org/wiki/%D9%84%DB%8C%D8%A8%DB%8C	fa	Q1016	True	5
+fa-6245	126	6	بنغازی	http://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%DB%8C	fa	Q40816	True	4
+fa-6245	540	15	دیدبان حقوق بشر	http://fa.wikipedia.org/wiki/%D8%AF%DB%8C%D8%AF%D8%A8%D8%A7%D9%86_%D8%AD%D9%82%D9%88%D9%82_%D8%A8%D8%B4%D8%B1	fa	Q187052	True	4
+fa-6255	77	10	فیروزآبادی	http://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%AF_%D8%AD%D8%B3%D9%86_%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D8%A2%D8%A8%D8%A7%D8%AF%DB%8C	fa	Q3339641	True	2
+fa-6255	93	20	ستاد کل نیروهای مسلح	http://fa.wikipedia.org/wiki/%D8%B3%D8%AA%D8%A7%D8%AF_%DA%A9%D9%84_%D9%86%DB%8C%D8%B1%D9%88%D9%87%D8%A7%DB%8C_%D9%85%D8%B3%D9%84%D8%AD	fa	Q5942489	True	3
+fa-6258	100	13	میرحسین موسوی	http://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86_%D9%85%D9%88%D8%B3%D9%88%DB%8C	fa	Q217154	True	4
+fa-6286	53	11	فرنگی کاران	http://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%DB%8C_%D9%81%D8%B1%D9%86%DA%AF%DB%8C	fa	Q389654	True	4
+fa-6288	51	14	بازی رایانه‌ای	http://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%DB%8C%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87%E2%80%8C%D8%A7%DB%8C	fa	Q4485157	True	4
+fa-6289	172	9	شریف‌آباد	http://fa.wikipedia.org/wiki/%D8%B4%D8%B1%DB%8C%D9%81%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF	fa	Q261029	True	2
+fa-6302	31	11	فائزه هاشمی	http://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%A6%D8%B2%D9%87_%D9%87%D8%A7%D8%B4%D9%85%DB%8C	fa	Q433500	True	2
+fa-6332	46	6	شیعیان	http://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D8%B9%D9%87	fa	Q9585	True	5
+fa-6332	53	7	عربستان	http://fa.wikipedia.org/wiki/%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86	fa	Q851	True	5
+fa-6332	112	4	قطیف	http://fa.wikipedia.org/wiki/%D9%82%D8%B7%DB%8C%D9%81	fa	Q847660	True	4
+fa-6332	425	24	ملک عبدالله بن عبدالعزیز	http://fa.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87_%D8%A8%D9%86_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B9%D8%B2%DB%8C%D8%B2	fa	Q57298	True	4
+fa-6332	582	4	اوپک	http://fa.wikipedia.org/wiki/%D8%A7%D9%88%D9%BE%DA%A9	fa	Q7795	True	4
+fa-6343	55	19	جدایی نادر از سیمین	http://fa.wikipedia.org/wiki/%D8%AC%D8%AF%D8%A7%DB%8C%DB%8C_%D9%86%D8%A7%D8%AF%D8%B1_%D8%A7%D8%B2_%D8%B3%DB%8C%D9%85%DB%8C%D9%86	fa	Q640561	True	3
+fa-6343	81	11	اصغر فرهادی	http://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D8%BA%D8%B1_%D9%81%D8%B1%D9%87%D8%A7%D8%AF%DB%8C	fa	Q334242	True	4
+fa-6379	59	4	لیبی	http://fa.wikipedia.org/wiki/%D9%84%DB%8C%D8%A8%DB%8C	fa	Q1016	True	5
+fa-6379	186	7	ونزوئلا	http://fa.wikipedia.org/wiki/%D9%88%D9%86%D8%B2%D9%88%D8%A6%D9%84%D8%A7	fa	Q717	True	5
+fa-6382	83	10	کرایست‌چرچ	http://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%A7%DB%8C%D8%B3%D8%AA%E2%80%8C%DA%86%D8%B1%DA%86	fa	Q79990	True	5
+fa-6382	94	8	نیوزیلند	http://fa.wikipedia.org/wiki/%D9%86%DB%8C%D9%88%D8%B2%DB%8C%D9%84%D9%86%D8%AF	fa	Q664	True	5
+fa-6400	39	13	خبرگزاری فارس	http://fa.wikipedia.org/wiki/%D8%AE%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1%DB%8C_%D9%81%D8%A7%D8%B1%D8%B3	fa	Q1397143	True	3
+fa-6400	64	19	سپاه پاسداران ایران	http://fa.wikipedia.org/wiki/%D8%B3%D9%BE%D8%A7%D9%87_%D9%BE%D8%A7%D8%B3%D8%AF%D8%A7%D8%B1%D8%A7%D9%86_%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C	fa	Q271110	True	4
+fa-6407	106	13	صادق لاریجانی	http://fa.wikipedia.org/wiki/%D8%B5%D8%A7%D8%AF%D9%82_%D9%84%D8%A7%D8%B1%DB%8C%D8%AC%D8%A7%D9%86%DB%8C	fa	Q24682	True	3
+fa-6407	152	12	ابراهیم یزدی	http://fa.wikipedia.org/wiki/%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%DB%8C%D9%85_%DB%8C%D8%B2%D8%AF%DB%8C	fa	Q981844	True	3
+fa-6415	72	5	سنگال	http://fa.wikipedia.org/wiki/%D8%B3%D9%86%DA%AF%D8%A7%D9%84	fa	Q1041	True	5
+fa-6415	81	5	ایران	http://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86	fa	Q794	True	5
+fa-6415	617	6	نیجریه	http://fa.wikipedia.org/wiki/%D9%86%DB%8C%D8%AC%D8%B1%DB%8C%D9%87	fa	Q1033	True	5
+fa-6415	686	8	بندرعباس	http://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3	fa	Q154814	True	4
+fa-6415	783	6	گامبیا	http://fa.wikipedia.org/wiki/%DA%AF%D8%A7%D9%85%D8%A8%DB%8C%D8%A7	fa	Q1005	True	5
+fa-6415	979	11	منوچهر متکی	http://fa.wikipedia.org/wiki/%D9%85%D9%86%D9%88%DA%86%D9%87%D8%B1_%D9%85%D8%AA%DA%A9%DB%8C	fa	Q374481	True	3
+fa-6415	991	4	وزیر	http://fa.wikipedia.org/wiki/%D9%88%D8%B2%DB%8C%D8%B1_%D8%A7%D9%85%D9%88%D8%B1_%D8%AE%D8%A7%D8%B1%D8%AC%D9%87	fa	Q7330070	True	4
+fa-6415	1325	5	تهران	http://fa.wikipedia.org/wiki/%D8%AA%D9%87%D8%B1%D8%A7%D9%86	fa	Q3616	True	5
+fa-6423	33	15	معترضان لیبیایی	http://fa.wikipedia.org/wiki/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA_%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C_%D8%AF%D8%B1_%D9%84%DB%8C%D8%A8%DB%8C_(%DB%B2%DB%B0%DB%B1%DB%B1)	fa	Q81545	True	4
+fa-6423	59	4	طبرق	http://fa.wikipedia.org/wiki/%D8%B7%D8%A8%D8%B1%D9%82	fa	Q182092	True	4
+fa-6423	93	3	مصر	http://fa.wikipedia.org/wiki/%D9%85%D8%B5%D8%B1	fa	Q79	True	5
+fa-6423	331	7	الجزیره	http://fa.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_(%D8%B4%D8%A8%DA%A9%D9%87_%D8%AE%D8%A8%D8%B1%DB%8C)	fa	Q13477	True	4
+fa-6423	637	6	بنغازی	http://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%DB%8C	fa	Q40816	True	4
+fa-6423	646	4	بیضا	http://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B6%D8%A7_(%D9%84%DB%8C%D8%A8%DB%8C)	fa	Q35784	True	3
+fa-6423	880	3	چاد	http://fa.wikipedia.org/wiki/%DA%86%D8%A7%D8%AF	fa	Q657	True	5
+fa-6423	908	14	فرانکو فراتینی	http://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%A7%D9%86%DA%A9%D9%88_%D9%81%D8%B1%D8%A7%D8%AA%DB%8C%D9%86%DB%8C	fa	Q333833	True	3
+fa-6426	71	8	موسی صدر	http://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B3%DB%8C_%D8%B5%D8%AF%D8%B1	fa	Q672145	True	3
+fa-6426	156	4	لیبی	http://fa.wikipedia.org/wiki/%D9%84%DB%8C%D8%A8%DB%8C	fa	Q1016	True	5
+fa-6426	670	5	لبنان	http://fa.wikipedia.org/wiki/%D9%84%D8%A8%D9%86%D8%A7%D9%86	fa	Q822	True	5
+fa-6432	65	4	لیبی	http://fa.wikipedia.org/wiki/%D9%84%DB%8C%D8%A8%DB%8C	fa	Q1016	True	5
+fa-6432	174	12	نفت خام برنت	http://fa.wikipedia.org/wiki/%D9%86%D9%81%D8%AA_%D8%A8%D8%B1%D9%86%D8%AA	fa	Q1270246	True	3
+fa-6432	297	5	آلمان	http://fa.wikipedia.org/wiki/%D8%A2%D9%84%D9%85%D8%A7%D9%86	fa	Q183	True	5
+fa-6432	444	6	فرانسه	http://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87	fa	Q142	True	5
+fa-6432	837	5	توتال	http://fa.wikipedia.org/wiki/%D8%AA%D9%88%D8%AA%D8%A7%D9%84	fa	Q154037	True	4
+fa-6432	897	3	انی	http://fa.wikipedia.org/wiki/%D8%A7%D9%86%DB%8C	fa	Q408793	True	2
+fa-6432	911	5	رپسول	http://fa.wikipedia.org/wiki/%D8%B1%D9%BE%D8%B3%D9%88%D9%84	fa	Q174747	True	4
+fa-6432	1334	7	ایتالیا	http://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7	fa	Q38	True	5
+fa-6432	1381	3	چین	http://fa.wikipedia.org/wiki/%DA%86%DB%8C%D9%86	fa	Q148	True	5
+fa-6432	1401	6	آمریکا	http://fa.wikipedia.org/wiki/%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7	fa	Q30	True	5
+fa-6433	238	11	اول فروردین	http://fa.wikipedia.org/wiki/%D8%A7%D9%88%D9%84_%D9%81%D8%B1%D9%88%D8%B1%D8%AF%DB%8C%D9%86	fa	Q14896458	False	3
+fa-6433	533	16	جمهوری آذربایجان	http://fa.wikipedia.org/wiki/%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86	fa	Q227	True	5
+fa-6433	573	5	ترکیه	http://fa.wikipedia.org/wiki/%D8%AA%D8%B1%DA%A9%DB%8C%D9%87	fa	Q43	True	5
+fa-6433	580	9	ترکمنستان	http://fa.wikipedia.org/wiki/%D8%AA%D8%B1%DA%A9%D9%85%D9%86%D8%B3%D8%AA%D8%A7%D9%86	fa	Q874	True	5
+fa-6433	591	8	قزاقستان	http://fa.wikipedia.org/wiki/%D9%82%D8%B2%D8%A7%D9%82%D8%B3%D8%AA%D8%A7%D9%86	fa	Q232	True	5
+fa-6433	602	9	قرقیزستان	http://fa.wikipedia.org/wiki/%D9%82%D8%B1%D9%82%DB%8C%D8%B2%D8%B3%D8%AA%D8%A7%D9%86	fa	Q813	True	5
+fa-6433	623	26	مجمع عمومی سازمان ملل متحد	http://fa.wikipedia.org/wiki/%D9%85%D8%AC%D9%85%D8%B9_%D8%B9%D9%85%D9%88%D9%85%DB%8C_%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86_%D9%85%D9%84%D9%84_%D9%85%D8%AA%D8%AD%D8%AF	fa	Q47423	True	5
+fa-6433	732	16	محمود احمدی نژاد	http://fa.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D9%88%D8%AF_%D8%A7%D8%AD%D9%85%D8%AF%DB%8C_%D9%86%DA%98%D8%A7%D8%AF	fa	Q34448	True	4
+fa-6433	765	9	افغانستان	http://fa.wikipedia.org/wiki/%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86	fa	Q889	True	5
+fa-6433	776	9	تاجیکستان	http://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D8%AC%DB%8C%DA%A9%D8%B3%D8%AA%D8%A7%D9%86	fa	Q863	True	5
+fa-6433	787	4	عراق	http://fa.wikipedia.org/wiki/%D8%B9%D8%B1%D8%A7%D9%82	fa	Q796	True	5
+fa-6433	794	9	ترکمنستان	http://fa.wikipedia.org/wiki/%D8%AA%D8%B1%DA%A9%D9%85%D9%86%D8%B3%D8%AA%D8%A7%D9%86	fa	Q874	True	5
+fa-6433	807	5	تهران	http://fa.wikipedia.org/wiki/%D8%AA%D9%87%D8%B1%D8%A7%D9%86	fa	Q3616	True	5
+fa-6436	82	11	مجلس خبرگان	http://fa.wikipedia.org/wiki/%D9%85%D8%AC%D9%84%D8%B3_%D8%AE%D8%A8%D8%B1%DA%AF%D8%A7%D9%86_%D8%B1%D9%87%D8%A8%D8%B1%DB%8C	fa	Q917663	True	3
+fa-6446	78	24	ارتش جمهوری اسلامی ایران	http://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AA%D8%B4_%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86	fa	Q2465096	True	3
+fa-6446	146	10	کانال سوئز	http://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D9%86%D8%A7%D9%84_%D8%B3%D9%88%D8%A6%D8%B2	fa	Q899	True	5
+fa-6446	208	42	کشتی پشتیبانی و سوخت‌گیری ۳۳ هزار تنی خارک	http://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%DB%8C_%D8%AE%D8%A7%D8%B1%DA%A9	fa	Q6067508	True	1
+fa-6446	274	20	ناوچه ۱۱۰۰ تنی الوند	http://fa.wikipedia.org/wiki/%D9%86%D8%A7%D9%88%DA%86%D9%87_%D8%A7%D9%84%D9%88%D9%86%D8%AF	fa	Q6067402	True	1
+fa-6460	63	18	سازمان صنایع هوایی	http://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86_%D8%B5%D9%86%D8%A7%DB%8C%D8%B9_%D9%87%D9%88%D8%A7%DB%8C%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86	fa	Q4203070	True	2
+fa-6460	117	18	هواپیمای ایران ۱۴۰	http://fa.wikipedia.org/wiki/%D8%A2%D9%86%D8%AA%D9%88%D9%86%D9%88%D9%81-%DB%B1%DB%B4%DB%B0	fa	Q367719	True	3
+fa-6462	49	9	علی مطهری	http://fa.wikipedia.org/wiki/%D8%B9%D9%84%DB%8C_%D9%85%D8%B7%D9%87%D8%B1%DB%8C	fa	Q4725055	True	3
+fa-6462	68	7	اصولگرا	http://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%88%D9%84%DA%AF%D8%B1%D8%A7%DB%8C%D8%A7%D9%86	fa	Q17173896	True	3
+fa-6465	40	15	شیخ احمد منتظری	http://fa.wikipedia.org/wiki/%D8%A7%D8%AD%D9%85%D8%AF_%D9%85%D9%86%D8%AA%D8%B8%D8%B1%DB%8C	fa	Q5950909	False	2
+fa-6465	72	15	حسین‌علی منتظری	http://fa.wikipedia.org/wiki/%D8%AD%D8%B3%DB%8C%D9%86%E2%80%8C%D8%B9%D9%84%DB%8C_%D9%85%D9%86%D8%AA%D8%B8%D8%B1%DB%8C	fa	Q311160	True	3
+fa-6467	55	13	صادق زیباکلام	http://fa.wikipedia.org/wiki/%D8%B5%D8%A7%D8%AF%D9%82_%D8%B2%DB%8C%D8%A8%D8%A7%DA%A9%D9%84%D8%A7%D9%85	fa	Q5960943	True	2
+fa-6467	69	19	اسفندیار رحیم مشایی	http://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D9%81%D9%86%D8%AF%DB%8C%D8%A7%D8%B1_%D8%B1%D8%AD%DB%8C%D9%85_%D9%85%D8%B4%D8%A7%DB%8C%DB%8C	fa	Q1353303	True	3
+fa-6467	121	10	اصولگرایان	http://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%88%D9%84%DA%AF%D8%B1%D8%A7%DB%8C%D8%A7%D9%86	fa	Q17173896	True	3
+fa-6467	558	11	انتخابات ۷۶	http://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA_%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA_%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_(%DB%B1%DB%B3%DB%B7%DB%B6)	fa	Q1672404	True	2
+fa-6467	814	10	خرداد ۱۳۸۴	http://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA_%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA_%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_(%DB%B1%DB%B3%DB%B8%DB%B4)	fa	Q251830	True	3
+fa-6467	827	4	۱۳۸۸	http://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA_%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA_%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_(%DB%B1%DB%B3%DB%B8%DB%B8)	fa	Q143304	True	4
+fa-6467	992	19	آیت الله جوادی آملی	http://fa.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87_%D8%AC%D9%88%D8%A7%D8%AF%DB%8C_%D8%A2%D9%85%D9%84%DB%8C	fa	Q4115655	True	3
+fa-6467	1012	10	احمد توکلی	http://fa.wikipedia.org/wiki/%D8%A7%D8%AD%D9%85%D8%AF_%D8%AA%D9%88%DA%A9%D9%84%DB%8C	fa	Q4164150	True	3
+fa-6467	1023	9	علی مطهری	http://fa.wikipedia.org/wiki/%D8%B9%D9%84%DB%8C_%D9%85%D8%B7%D9%87%D8%B1%DB%8C	fa	Q4725055	True	3
+fa-6467	1033	11	عباس شیبانی	http://fa.wikipedia.org/wiki/%D8%B9%D8%A8%D8%A7%D8%B3_%D8%B4%DB%8C%D8%A8%D8%A7%D9%86%DB%8C	fa	Q5874957	True	2
+fa-6467	1046	21	حبیب الله عسگر اولادی	http://fa.wikipedia.org/wiki/%D8%AD%D8%A8%DB%8C%D8%A8_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D8%B3%DA%AF%D8%B1_%D8%A7%D9%88%D9%84%D8%A7%D8%AF%DB%8C	fa	Q5636830	True	2
+fa-6467	1070	13	حسین الله کرم	http://fa.wikipedia.org/wiki/%D8%AD%D8%B3%DB%8C%D9%86_%D8%A7%D9%84%D9%84%D9%87_%DA%A9%D8%B1%D9%85	fa	Q6554815	True	2
+fa-6470	52	4	لیبی	http://fa.wikipedia.org/wiki/%D9%84%DB%8C%D8%A8%DB%8C	fa	Q1016	True	5
+fa-6470	192	5	قذافی	http://fa.wikipedia.org/wiki/%D9%82%D8%B0%D8%A7%D9%81%DB%8C	fa	Q19878	True	4
+fa-6471	44	11	شورای امنیت	http://fa.wikipedia.org/wiki/%D8%B4%D9%88%D8%B1%D8%A7%DB%8C_%D8%A7%D9%85%D9%86%DB%8C%D8%AA	fa	Q37470	True	5
+fa-6471	331	4	لیبی	http://fa.wikipedia.org/wiki/%D9%84%DB%8C%D8%A8%DB%8C	fa	Q1016	True	5
+fa-6471	936	4	تونس	http://fa.wikipedia.org/wiki/%D8%AA%D9%88%D9%86%D8%B3	fa	Q948	True	5
+fa-6471	976	3	مصر	http://fa.wikipedia.org/wiki/%D9%85%D8%B5%D8%B1	fa	Q79	True	5
+fa-6472	89	3	CNN	http://fa.wikipedia.org/wiki/%D8%B3%DB%8C%E2%80%8C%D8%A7%D9%86%E2%80%8C%D8%A7%D9%86	fa	Q48340	True	5
+fa-6472	106	13	میرحسین موسوی	http://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86_%D9%85%D9%88%D8%B3%D9%88%DB%8C	fa	Q217154	True	4
+fa-6472	122	10	مهدی کروبی	http://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C_%DA%A9%D8%B1%D9%88%D8%A8%DB%8C	fa	Q315011	True	3
+fa-6472	233	4	جنبش	http://fa.wikipedia.org/wiki/%D8%AC%D9%86%D8%A8%D8%B4_%D8%B3%D8%A8%D8%B2	fa	Q2626387	True	3
+fa-6477	91	12	محمد الغنوشی	http://fa.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%BA%D9%86%D9%88%D8%B4%DB%8C	fa	Q431515	True	3
+fa-6477	114	4	تونس	http://fa.wikipedia.org/wiki/%D8%AA%D9%88%D9%86%D8%B3	fa	Q948	True	5
+fa-6477	1185	19	زین‌العابدین بن علی	http://fa.wikipedia.org/wiki/%D8%B2%DB%8C%D9%86%E2%80%8C%D8%A7%D9%84%D8%B9%D8%A7%D8%A8%D8%AF%DB%8C%D9%86_%D8%A8%D9%86_%D8%B9%D9%84%DB%8C	fa	Q204487	True	4
+fa-6477	1239	12	حبیب بورقیبه	http://fa.wikipedia.org/wiki/%D8%AD%D8%A8%DB%8C%D8%A8_%D8%A8%D9%88%D8%B1%D9%82%DB%8C%D8%A8%D9%87	fa	Q643348	True	4
+fa-6554	121	13	میرحسین موسوی	http://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86_%D9%85%D9%88%D8%B3%D9%88%DB%8C	fa	Q217154	True	4
+fa-6554	137	10	مهدی کروبی	http://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C_%DA%A9%D8%B1%D9%88%D8%A8%DB%8C	fa	Q315011	True	3
+fa-6554	429	21	علی‌اکبر موسوی خوئینی	http://fa.wikipedia.org/wiki/%D8%B9%D9%84%DB%8C%E2%80%8C%D8%A7%DA%A9%D8%A8%D8%B1_%D9%85%D9%88%D8%B3%D9%88%DB%8C_%D8%AE%D9%88%D8%A6%DB%8C%D9%86%DB%8C	fa	Q2498856	True	2
+fa-6554	899	10	یوسف صانعی	http://fa.wikipedia.org/wiki/%DB%8C%D9%88%D8%B3%D9%81_%D8%B5%D8%A7%D9%86%D8%B9%DB%8C	fa	Q959920	True	3
+fa-6554	911	15	علی‌محمد دستغیب	http://fa.wikipedia.org/wiki/%D8%B9%D9%84%DB%8C%E2%80%8C%D9%85%D8%AD%D9%85%D8%AF_%D8%AF%D8%B3%D8%AA%D8%BA%DB%8C%D8%A8	fa	Q4725034	True	2
+fa-6554	929	19	اسدالله بیات زنجانی	http://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AF%D8%A7%D9%84%D9%84%D9%87_%D8%A8%DB%8C%D8%A7%D8%AA_%D8%B2%D9%86%D8%AC%D8%A7%D9%86%DB%8C	fa	Q4803279	True	2
+fa-6570	91	13	میرحسین موسوی	http://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86_%D9%85%D9%88%D8%B3%D9%88%DB%8C	fa	Q217154	True	4
+fa-6570	107	10	مهدی کروبی	http://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C_%DA%A9%D8%B1%D9%88%D8%A8%DB%8C	fa	Q315011	True	3
+fa-6600	41	13	محمد رویانیان	http://fa.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%B1%D9%88%DB%8C%D8%A7%D9%86%DB%8C%D8%A7%D9%86	fa	Q3661230	True	2
+fa-6600	103	10	محسن هاشمی	http://fa.wikipedia.org/wiki/%D9%85%D8%AD%D8%B3%D9%86_%D9%87%D8%A7%D8%B4%D9%85%DB%8C	fa	Q5943665	True	2
+fa-6600	121	23	علی‌اکبر هاشمی رفسنجانی	http://fa.wikipedia.org/wiki/%D8%B9%D9%84%DB%8C%E2%80%8C%D8%A7%DA%A9%D8%A8%D8%B1_%D9%87%D8%A7%D8%B4%D9%85%DB%8C_%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86%DB%8C	fa	Q186111	True	4
+fa-6600	155	11	متروی تهران	http://fa.wikipedia.org/wiki/%D9%85%D8%AA%D8%B1%D9%88%DB%8C_%D8%AA%D9%87%D8%B1%D8%A7%D9%86	fa	Q714823	True	3
+fa-6607	59	9	احمد ملکی	http://fa.wikipedia.org/wiki/%D8%A7%D8%AD%D9%85%D8%AF_%D9%85%D9%84%DA%A9%DB%8C	fa	Q5853165	False	1
+fa-6607	200	6	رویترز	http://fa.wikipedia.org/wiki/%D8%B1%D9%88%DB%8C%D8%AA%D8%B1%D8%B2	fa	Q130879	True	5
+fa-6607	226	31	انقلاب‌های مردمی در شمال آفریقا	http://fa.wikipedia.org/wiki/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA_%D8%AF%D8%B1_%D8%B4%D9%85%D8%A7%D9%84_%D8%A2%D9%81%D8%B1%DB%8C%D9%82%D8%A7_%D9%88_%D8%BA%D8%B1%D8%A8_%D8%A2%D8%B3%DB%8C%D8%A7_(%DB%B2%DB%B0%DB%B1%DB%B0%E2%80%93%DB%B2%DB%B0%DB%B1%DB%B1)	fa	Q33761	True	4
+fa-6607	389	13	جمهوری اسلامی	http://fa.wikipedia.org/wiki/%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86	fa	Q16052369	True	4
+fa-6607	700	16	جنگ ایران و عراق	http://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%88_%D8%B9%D8%B1%D8%A7%D9%82	fa	Q82664	True	4
+fa-6614	491	12	ندا آقاسلطان	http://fa.wikipedia.org/wiki/%D9%86%D8%AF%D8%A7_%D8%A2%D9%82%D8%A7%D8%B3%D9%84%D8%B7%D8%A7%D9%86	fa	Q326474	True	3
+fa-6614	714	11	زهرا رهنورد	http://fa.wikipedia.org/wiki/%D8%B2%D9%87%D8%B1%D8%A7_%D8%B1%D9%87%D9%86%D9%88%D8%B1%D8%AF	fa	Q144195	True	3
+fa-6614	728	11	فاطمه کروبی	http://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B7%D9%85%D9%87_%DA%A9%D8%B1%D9%88%D8%A8%DB%8C	fa	Q542378	True	2
+fa-6632	47	4	لیبی	http://fa.wikipedia.org/wiki/%D9%84%DB%8C%D8%A8%DB%8C	fa	Q1016	True	5
+fa-6632	113	13	اعتراضات اخیر	http://fa.wikipedia.org/wiki/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA_%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C_%D8%AF%D8%B1_%D9%84%DB%8C%D8%A8%DB%8C_(%DB%B2%DB%B0%DB%B1%DB%B1)	fa	Q81545	True	4
+fa-6632	335	4	تانک	http://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D9%86%DA%A9	fa	Q12876	True	5
+fa-6632	367	6	خمپاره	http://fa.wikipedia.org/wiki/%D8%AE%D9%85%D9%BE%D8%A7%D8%B1%D9%87	fa	Q318028	True	4
+fa-6632	436	14	تفنگ‌های شکاری	http://fa.wikipedia.org/wiki/%D8%AA%D9%81%D9%86%DA%AF_%D8%B4%DA%A9%D8%A7%D8%B1%DB%8C	fa	Q124072	True	5
+fa-6632	666	4	جهاد	http://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%A7%D8%AF	fa	Q44311	True	4
+fa-6660	101	11	جنگ ستارگان	http://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF_%D8%B3%D8%AA%D8%A7%D8%B1%DA%AF%D8%A7%D9%86	fa	Q462	True	5
+fa-6661	41	23	عبدالکریم موسوی اردبیلی	http://fa.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%DA%A9%D8%B1%DB%8C%D9%85_%D9%85%D9%88%D8%B3%D9%88%DB%8C_%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84%DB%8C	fa	Q353077	True	3
+fa-6661	93	26	قیام‌های ضدحکومتی در منطقه	http://fa.wikipedia.org/wiki/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA_%D8%AF%D8%B1_%D8%B4%D9%85%D8%A7%D9%84_%D8%A2%D9%81%D8%B1%DB%8C%D9%82%D8%A7_%D9%88_%D8%BA%D8%B1%D8%A8_%D8%A2%D8%B3%DB%8C%D8%A7_(%DB%B2%DB%B0%DB%B1%DB%B0%E2%80%93%DB%B2%DB%B0%DB%B1%DB%B1)	fa	Q33761	True	4
+fa-6661	1077	14	روزنامهٔ کیهان	http://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87_%DA%A9%DB%8C%D9%87%D8%A7%D9%86	fa	Q1468962	True	3
+fa-6661	1108	15	حسین شریعتمداری	http://fa.wikipedia.org/wiki/%D8%AD%D8%B3%DB%8C%D9%86_%D8%B4%D8%B1%DB%8C%D8%B9%D8%AA%D9%85%D8%AF%D8%A7%D8%B1%DB%8C	fa	Q2753284	True	2
+fa-6682	31	17	محمدرضا مهدوی کنی	http://fa.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF%D8%B1%D8%B6%D8%A7_%D9%85%D9%87%D8%AF%D9%88%DB%8C_%DA%A9%D9%86%DB%8C	fa	Q722774	True	3
+fa-6682	72	17	مجلس خبرگان رهبری	http://fa.wikipedia.org/wiki/%D9%85%D8%AC%D9%84%D8%B3_%D8%AE%D8%A8%D8%B1%DA%AF%D8%A7%D9%86_%D8%B1%D9%87%D8%A8%D8%B1%DB%8C	fa	Q917663	True	3
+fa-6682	267	23	علی‌اکبر هاشمی رفسنجانی	http://fa.wikipedia.org/wiki/%D8%B9%D9%84%DB%8C%E2%80%8C%D8%A7%DA%A9%D8%A8%D8%B1_%D9%87%D8%A7%D8%B4%D9%85%DB%8C_%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86%DB%8C	fa	Q186111	True	4
+fa-6682	671	19	جامعه روحانیت مبارز	http://fa.wikipedia.org/wiki/%D8%AC%D8%A7%D9%85%D8%B9%D9%87_%D8%B1%D9%88%D8%AD%D8%A7%D9%86%DB%8C%D8%AA_%D9%85%D8%A8%D8%A7%D8%B1%D8%B2	fa	Q1817687	True	3
+fa-6682	713	17	دانشگاه امام صادق	http://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D8%A7%D9%85%D8%A7%D9%85_%D8%B5%D8%A7%D8%AF%D9%82	fa	Q6003101	True	3
+fa-6690	78	8	جنگل‌های	http://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF%D9%84	fa	Q4421	True	5
+fa-6690	87	5	زاگرس	http://fa.wikipedia.org/wiki/%D8%B2%D8%A7%DA%AF%D8%B1%D8%B3	fa	Q167021	True	4
+fa-6690	431	7	کشاورزی	http://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C	fa	Q11451	True	5
+fa-6690	720	4	بلوط	http://fa.wikipedia.org/wiki/%D8%A8%D9%84%D9%88%D8%B7	fa	Q12004	True	5
+fa-6701	42	19	غلامرضا مصباحی مقدم	http://fa.wikipedia.org/wiki/%D8%BA%D9%84%D8%A7%D9%85%D8%B1%D8%B6%D8%A7_%D9%85%D8%B5%D8%A8%D8%A7%D8%AD%DB%8C_%D9%85%D9%82%D8%AF%D9%85	fa	Q5746975	True	2
+fa-6710	79	14	سرتیپ علی فضلی	http://fa.wikipedia.org/wiki/%D8%B9%D9%84%DB%8C_%D9%81%D8%B6%D9%84%DB%8C	fa	Q5945419	False	2
+fa-6710	110	20	سازمان بسیج مستضعفین	http://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86_%D8%A8%D8%B3%DB%8C%D8%AC_%D9%85%D8%B3%D8%AA%D8%B6%D8%B9%D9%81%DB%8C%D9%86	fa	Q750202	True	3
+fa-6710	670	9	حسن خمینی	http://fa.wikipedia.org/wiki/%D8%AD%D8%B3%D9%86_%D8%AE%D9%85%DB%8C%D9%86%DB%8C	fa	Q3497361	True	3
+fa-6711	77	12	علی خامنه‌ای	http://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%AF_%D8%B9%D9%84%DB%8C_%D8%AE%D8%A7%D9%85%D9%86%D9%87%E2%80%8C%D8%A7%DB%8C	fa	Q57336	True	4
+fa-6711	109	17	مجلس خبرگان رهبری	http://fa.wikipedia.org/wiki/%D9%85%D8%AC%D9%84%D8%B3_%D8%AE%D8%A8%D8%B1%DA%AF%D8%A7%D9%86_%D8%B1%D9%87%D8%A8%D8%B1%DB%8C	fa	Q917663	True	3
+fa-6712	72	11	شیرین عبادی	http://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D8%B1%DB%8C%D9%86_%D8%B9%D8%A8%D8%A7%D8%AF%DB%8C	fa	Q131152	True	3
+fa-6712	114	14	جایزه صلح نوبل	http://fa.wikipedia.org/wiki/%D8%AC%D8%A7%DB%8C%D8%B2%D9%87_%D8%B5%D9%84%D8%AD_%D9%86%D9%88%D8%A8%D9%84	fa	Q35637	True	5
+fa-6712	164	18	سرکوب شدید معترضان	http://fa.wikipedia.org/wiki/%D9%BE%DB%8C%D8%A7%D9%85%D8%AF%D9%87%D8%A7%DB%8C_%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA_%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA_%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%AF%D9%87%D9%85_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86	fa	Q854206	True	3
+fa-6713	51	6	ریشتری	http://fa.wikipedia.org/wiki/%D8%B1%DB%8C%D8%B4%D8%AA%D8%B1	fa	Q38768	True	4
+fa-6713	62	4	ژاپن	http://fa.wikipedia.org/wiki/%DA%98%D8%A7%D9%BE%D9%86	fa	Q17	True	5
+fa-6713	173	6	سونامی	http://fa.wikipedia.org/wiki/%D8%B3%D9%88%D9%86%D8%A7%D9%85%DB%8C	fa	Q8070	True	5
+fa-6713	360	5	سندای	http://fa.wikipedia.org/wiki/%D8%B3%D9%86%D8%AF%D8%A7%DB%8C	fa	Q46747	True	5
+fa-6713	442	12	نیروگاه اتمی	http://fa.wikipedia.org/wiki/%D9%86%DB%8C%D8%B1%D9%88%DA%AF%D8%A7%D9%87_%D8%A7%D8%AA%D9%85%DB%8C	fa	Q134447	True	4
+fa-6713	527	10	پالایشگاهی	http://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D9%84%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87	fa	Q1867977	True	3
+fa-6713	559	22	مرکز لرزه‌نگاری آمریکا	http://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86_%D9%86%D9%82%D8%B4%D9%87%E2%80%8C%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%B2%D9%85%DB%8C%D9%86%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C_%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7	fa	Q193755	True	5
+fa-6745	54	7	الجزیره	http://fa.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_(%D8%B4%D8%A8%DA%A9%D9%87_%D8%AE%D8%A8%D8%B1%DB%8C)	fa	Q13477	True	4
+fa-6745	79	6	بنغازی	http://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%DB%8C	fa	Q40816	True	4
+fa-6745	422	4	لیبی	http://fa.wikipedia.org/wiki/%D9%84%DB%8C%D8%A8%DB%8C	fa	Q1016	True	5
+fa-6745	786	16	قیام و شورش لیبی	http://fa.wikipedia.org/wiki/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA_%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C_%D8%AF%D8%B1_%D9%84%DB%8C%D8%A8%DB%8C_(%DB%B2%DB%B0%DB%B1%DB%B1)	fa	Q81545	True	4
+fa-6748	365	13	چهارشنبه‌سوری	http://fa.wikipedia.org/wiki/%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87%E2%80%8C%D8%B3%D9%88%D8%B1%DB%8C	fa	Q2372493	True	3
+fa-6758	47	11	حسین هدایتی	http://fa.wikipedia.org/wiki/%D8%AD%D8%B3%DB%8C%D9%86_%D9%87%D8%AF%D8%A7%DB%8C%D8%AA%DB%8C	fa	Q5941354	True	2
+fa-6758	76	24	باشگاه فوتبال استیل‌آذین	http://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B4%DA%AF%D8%A7%D9%87_%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84_%D8%A7%D8%B3%D8%AA%DB%8C%D9%84%E2%80%8C%D8%A2%D8%B0%DB%8C%D9%86_%D8%AA%D9%87%D8%B1%D8%A7%D9%86	fa	Q1622208	True	3
+fa-6758	107	11	محمود یاوری	http://fa.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D9%88%D8%AF_%DB%8C%D8%A7%D9%88%D8%B1%DB%8C	fa	Q6583481	True	2
+fa-6758	253	9	علی پروین	http://fa.wikipedia.org/wiki/%D8%B9%D9%84%DB%8C_%D9%BE%D8%B1%D9%88%DB%8C%D9%86	fa	Q1969259	True	3
+fa-6787	220	10	بان کی‌مون	http://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D9%86_%DA%A9%DB%8C%E2%80%8C%D9%85%D9%88%D9%86	fa	Q1253	True	4
+fa-6787	271	13	میرحسین موسوی	http://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86_%D9%85%D9%88%D8%B3%D9%88%DB%8C	fa	Q217154	True	4
+fa-6787	287	10	مهدی کروبی	http://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C_%DA%A9%D8%B1%D9%88%D8%A8%DB%8C	fa	Q315011	True	3
+fa-6787	440	11	شیرین عبادی	http://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D8%B1%DB%8C%D9%86_%D8%B9%D8%A8%D8%A7%D8%AF%DB%8C	fa	Q131152	True	3
+fa-6787	476	16	عبدالکریم لاهیجی	http://fa.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%DA%A9%D8%B1%DB%8C%D9%85_%D9%84%D8%A7%D9%87%DB%8C%D8%AC%DB%8C	fa	Q5941478	True	2
+fa-6787	545	10	هاله افشار	http://fa.wikipedia.org/wiki/%D9%87%D8%A7%D9%84%D9%87_%D8%A7%D9%81%D8%B4%D8%A7%D8%B1	fa	Q224911	True	2
+fa-6787	557	12	داریوش آشوری	http://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D8%B1%DB%8C%D9%88%D8%B4_%D8%A2%D8%B4%D9%88%D8%B1%DB%8C	fa	Q3016686	True	2
+fa-6787	571	17	یرواند آبراهامیان	http://fa.wikipedia.org/wiki/%DB%8C%D8%B1%D9%88%D8%A7%D9%86%D8%AF_%D8%A2%D8%A8%D8%B1%D8%A7%D9%87%D8%A7%D9%85%DB%8C%D8%A7%D9%86	fa	Q5396010	True	3
+fa-6787	608	12	علی میرسپاسی	http://fa.wikipedia.org/wiki/%D8%B9%D9%84%DB%8C_%D9%85%DB%8C%D8%B1%D8%B3%D9%BE%D8%A7%D8%B3%DB%8C	fa	Q5958047	False	1
+fa-6787	622	14	حسن شریعتمداری	http://fa.wikipedia.org/wiki/%D8%AD%D8%B3%D9%86_%D8%B4%D8%B1%DB%8C%D8%B9%D8%AA%D9%85%D8%AF%D8%A7%D8%B1%DB%8C	fa	Q5679838	True	2
+fa-6843	51	14	زندان قزل‌حصار	http://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AF%D8%A7%D9%86_%D9%82%D8%B2%D9%84%E2%80%8C%D8%AD%D8%B5%D8%A7%D8%B1	fa	Q5556619	True	2
+fa-6843	308	5	اعدام	http://fa.wikipedia.org/wiki/%D8%A7%D8%B9%D8%AF%D8%A7%D9%85	fa	Q8454	True	5
+fa-6864	188	5	بریقه	http://fa.wikipedia.org/wiki/%D8%A8%D8%B1%DB%8C%D9%82%D9%87	fa	Q36219	True	3
+fa-6864	311	7	اجدابیا	http://fa.wikipedia.org/wiki/%D8%A7%D8%AC%D8%AF%D8%A7%D8%A8%DB%8C%D8%A7	fa	Q202991	True	3
+fa-6864	338	6	بنغازی	http://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%DB%8C	fa	Q40816	True	4
+fa-6864	548	4	طبرق	http://fa.wikipedia.org/wiki/%D8%B7%D8%A8%D8%B1%D9%82	fa	Q182092	True	4
+fa-6864	840	7	الجزیره	http://fa.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_(%D8%B4%D8%A8%DA%A9%D9%87_%D8%AE%D8%A8%D8%B1%DB%8C)	fa	Q13477	True	4
+fa-6864	1140	6	مصراته	http://fa.wikipedia.org/wiki/%D9%85%D8%B5%D8%B1%D8%A7%D8%AA%D9%87	fa	Q131323	True	4
+fa-6864	1312	22	شورای امنیت سازمان ملل	http://fa.wikipedia.org/wiki/%D8%B4%D9%88%D8%B1%D8%A7%DB%8C_%D8%A7%D9%85%D9%86%DB%8C%D8%AA	fa	Q37470	True	5
+fa-6884	55	22	شورای امنیت سازمان ملل	http://fa.wikipedia.org/wiki/%D8%B4%D9%88%D8%B1%D8%A7%DB%8C_%D8%A7%D9%85%D9%86%DB%8C%D8%AA	fa	Q37470	True	5
+fa-6884	225	6	بنغازی	http://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%DB%8C	fa	Q40816	True	4
+fa-6915	92	5	مویلا	http://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%DB%8C%D9%84%D8%A7	fa	Q9661	True	4
+fa-6915	98	8	فایرفاکس	http://fa.wikipedia.org/wiki/%D9%81%D8%A7%DB%8C%D8%B1%D9%81%D8%A7%DA%A9%D8%B3	fa	Q698	True	4
+fa-6915	131	12	بنیاد موزیلا	http://fa.wikipedia.org/wiki/%D8%A8%D9%86%DB%8C%D8%A7%D8%AF_%D9%85%D9%88%D8%B2%DB%8C%D9%84%D8%A7	fa	Q55672	True	4
+fa-6931	322	14	اتحادیه آفریقا	http://fa.wikipedia.org/wiki/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87_%D8%A2%D9%81%D8%B1%DB%8C%D9%82%D8%A7	fa	Q7159	True	4
+fa-6931	550	9	موشک کروز	http://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B4%DA%A9_%DA%A9%D8%B1%D9%88%D8%B2	fa	Q181860	True	4
+fa-6934	99	9	کشتی آزاد	http://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%DB%8C_%D8%A2%D8%B2%D8%A7%D8%AF	fa	Q327223	True	4
+fa-6934	112	7	داغستان	http://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D8%BA%D8%B3%D8%AA%D8%A7%D9%86	fa	Q5118	True	5
+fa-6934	506	10	ماخاچ قلعه	http://fa.wikipedia.org/wiki/%D9%85%D8%A7%D8%AE%D8%A7%DA%86_%D9%82%D9%84%D8%B9%D9%87	fa	Q5168	True	4
+fa-6934	542	14	فدراسیون روسیه	http://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B3%DB%8C%D9%87	fa	Q159	True	5
+fa-6939	432	10	ماخاچ قلعه	http://fa.wikipedia.org/wiki/%D9%85%D8%A7%D8%AE%D8%A7%DA%86_%D9%82%D9%84%D8%B9%D9%87	fa	Q5168	True	4
+fa-6939	468	14	فدراسیون روسیه	http://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B3%DB%8C%D9%87	fa	Q159	True	5
+fa-7092	43	12	محسن دگمه‌چی	http://fa.wikipedia.org/wiki/%D9%85%D8%AD%D8%B3%D9%86_%D8%AF%DA%AF%D9%85%D9%87%E2%80%8C%DA%86%DB%8C	fa	Q5953585	False	1
+fa-7092	166	13	سرطان پانکراس	http://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%B7%D8%A7%D9%86_%D9%84%D9%88%D8%B2%D8%A7%D9%84%D9%85%D8%B9%D8%AF%D9%87	fa	Q212961	True	4
+fa-7092	287	15	زندان رجایی‌شهر	http://fa.wikipedia.org/wiki/%D8%B2%D9%86%D8%AF%D8%A7%D9%86_%D8%B1%D8%AC%D8%A7%DB%8C%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1	fa	Q4993140	True	2
+fa-7092	332	11	قاضی صلواتی	http://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%B6%DB%8C_%D8%B5%D9%84%D9%88%D8%A7%D8%AA%DB%8C	fa	Q5963260	True	2
+fa-7193	43	12	باراک اوباما	http://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B1%D8%A7%DA%A9_%D8%A7%D9%88%D8%A8%D8%A7%D9%85%D8%A7	fa	Q76	True	5
+fa-7193	57	12	دیوید کامرون	http://fa.wikipedia.org/wiki/%D8%AF%DB%8C%D9%88%DB%8C%D8%AF_%DA%A9%D8%A7%D9%85%D8%B1%D9%88%D9%86	fa	Q192	True	4
+fa-7193	72	14	نیکولا سارکوزی	http://fa.wikipedia.org/wiki/%D9%86%DB%8C%DA%A9%D9%88%D9%84%D8%A7_%D8%B3%D8%A7%D8%B1%DA%A9%D9%88%D8%B2%DB%8C	fa	Q329	True	5
+fa-7193	211	8	بریتانیا	http://fa.wikipedia.org/wiki/%D8%A8%D8%B1%DB%8C%D8%AA%D8%A7%D9%86%DB%8C%D8%A7	fa	Q145	True	5
+fa-7193	222	6	فرانسه	http://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87	fa	Q142	True	5
+fa-7193	287	24	اینترنشنال هرالد تریبیون	http://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%B4%D9%86%D8%A7%D9%84_%D9%87%D8%B1%D8%A7%D9%84%D8%AF_%D8%AA%D8%B1%DB%8C%D8%A8%DB%8C%D9%88%D9%86	fa	Q678086	True	4
+fa-7193	313	16	فاینانشیال تایمز	http://fa.wikipedia.org/wiki/%D9%81%D8%A7%DB%8C%D9%86%D8%A7%D9%86%D8%B4%DB%8C%D8%A7%D9%84_%D8%AA%D8%A7%DB%8C%D9%85%D8%B2	fa	Q183399	True	4
+fa-7193	332	6	فیگارو	http://fa.wikipedia.org/wiki/%D9%81%DB%8C%DA%AF%D8%A7%D8%B1%D9%88	fa	Q216047	True	4
+fa-7527	39	11	بیژن پاکزاد	http://fa.wikipedia.org/wiki/%D8%A8%DB%8C%DA%98%D9%86_%D9%BE%D8%A7%DA%A9%D8%B2%D8%A7%D8%AF	fa	Q4907160	True	2
+fa-7527	86	10	طراحی لباس	http://fa.wikipedia.org/wiki/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C_%D9%84%D8%A8%D8%A7%D8%B3	fa	Q29583	True	4
+fa-7527	178	10	بورلی هیلز	http://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B1%D9%84%DB%8C_%D9%87%DB%8C%D9%84%D8%B2	fa	Q127856	True	5
+fa-7527	290	5	تهران	http://fa.wikipedia.org/wiki/%D8%AA%D9%87%D8%B1%D8%A7%D9%86	fa	Q3616	True	5
+fa-7527	352	12	باراک اوباما	http://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B1%D8%A7%DA%A9_%D8%A7%D9%88%D8%A8%D8%A7%D9%85%D8%A7	fa	Q76	True	5
+fa-7527	366	14	جورج دبلیو بوش	http://fa.wikipedia.org/wiki/%D8%AC%D9%88%D8%B1%D8%AC_%D8%AF%D8%A8%D9%84%DB%8C%D9%88_%D8%A8%D9%88%D8%B4	fa	Q207	True	5
+fa-7527	382	15	آرنولد شوارزنگر	http://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D9%86%D9%88%D9%84%D8%AF_%D8%B4%D9%88%D8%A7%D8%B1%D8%B2%D9%86%DA%AF%D8%B1	fa	Q2685	True	4
+fa-7527	410	12	رونالد ریگان	http://fa.wikipedia.org/wiki/%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF_%D8%B1%DB%8C%DA%AF%D8%A7%D9%86	fa	Q9960	True	5
+fa-7527	424	14	ولادیمیر پوتین	http://fa.wikipedia.org/wiki/%D9%88%D9%84%D8%A7%D8%AF%DB%8C%D9%85%DB%8C%D8%B1_%D9%BE%D9%88%D8%AA%DB%8C%D9%86	fa	Q7747	True	5
+fa-7918	89	27	مجمع تشخیص مصلحت نظام ایران	http://fa.wikipedia.org/wiki/%D9%85%D8%AC%D9%85%D8%B9_%D8%AA%D8%B4%D8%AE%DB%8C%D8%B5_%D9%85%D8%B5%D9%84%D8%AD%D8%AA_%D9%86%D8%B8%D8%A7%D9%85	fa	Q1422933	True	3
+fa-8125	49	22	سیف‌الاسلام معمر قذافی	http://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%81%E2%80%8C%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85_%D9%82%D8%B0%D8%A7%D9%81%DB%8C	fa	Q208135	True	3
+fa-8178	90	4	ناتو	http://fa.wikipedia.org/wiki/%D9%86%D8%A7%D8%AA%D9%88	fa	Q7184	True	5
+fa-8181	95	22	سیف‌الاسلام معمر قذافی	http://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%81%E2%80%8C%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85_%D9%82%D8%B0%D8%A7%D9%81%DB%8C	fa	Q208135	True	3
+fa-8182	54	7	اسرائیل	http://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84	fa	Q801	True	5
+fa-8194	77	5	مراکش	http://fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%A7%DA%A9%D8%B4	fa	Q1028	True	5
+fa-8194	110	8	محمد ششم	http://fa.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%B4%D8%B4%D9%85_(%D9%85%D8%B1%D8%A7%DA%A9%D8%B4)	fa	Q57553	True	4
+fa-8195	128	8	ارمنستان	http://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D9%85%D9%86%D8%B3%D8%AA%D8%A7%D9%86	fa	Q399	True	5
+fa-8195	163	6	ایروان	http://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B1%D9%88%D8%A7%D9%86	fa	Q1953	True	5
+fa-8196	91	24	اعتراضات گسترده در سوریه	http://fa.wikipedia.org/wiki/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA_%D8%AF%D8%B1_%D8%B3%D9%88%D8%B1%DB%8C%D9%87_(%DB%B2%DB%B0%DB%B1%DB%B1)	fa	Q178810	True	5
+fa-8207	125	6	طرابلس	http://fa.wikipedia.org/wiki/%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3_(%D9%84%D8%A8%D9%86%D8%A7%D9%86)	fa	Q168954	True	4
+fa-8207	670	7	آرپی‌جی	http://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D9%BE%DB%8C%E2%80%8C%D8%AC%DB%8C	fa	Q327394	True	4
+fa-8235	167	11	سیف‌الاسلام	http://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%81%E2%80%8C%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85_%D9%82%D8%B0%D8%A7%D9%81%DB%8C	fa	Q208135	True	3
+fa-8306	76	14	اتحادیهٔ اروپا	http://fa.wikipedia.org/wiki/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87_%D8%A7%D8%B1%D9%88%D9%BE%D8%A7	fa	Q458	True	5
+fa-8306	212	24	اعتراضات اخیر مردم سوریه	http://fa.wikipedia.org/wiki/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA_%D8%AF%D8%B1_%D8%B3%D9%88%D8%B1%DB%8C%D9%87_(%DB%B2%DB%B0%DB%B1%DB%B1)	fa	Q178810	True	5
+fa-8306	580	13	محمدعلی جعفری	http://fa.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF%D8%B9%D9%84%DB%8C_%D8%AC%D8%B9%D9%81%D8%B1%DB%8C	fa	Q137249	True	3
+fa-8306	1257	8	بشار اسد	http://fa.wikipedia.org/wiki/%D8%A8%D8%B4%D8%A7%D8%B1_%D8%A7%D8%B3%D8%AF	fa	Q44329	True	4
+fa-8316	106	3	مصر	http://fa.wikipedia.org/wiki/%D9%85%D8%B5%D8%B1	fa	Q79	True	5
+fa-8316	145	20	صندوق بین‌المللی پول	http://fa.wikipedia.org/wiki/%D8%B5%D9%86%D8%AF%D9%88%D9%82_%D8%A8%DB%8C%D9%86%E2%80%8C%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C_%D9%BE%D9%88%D9%84	fa	Q7804	True	5
+fa-8316	168	10	بانک جهانی	http://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D9%86%DA%A9_%D8%AC%D9%87%D8%A7%D9%86%DB%8C	fa	Q7164	True	5
+fa-8316	576	3	مصر	http://fa.wikipedia.org/wiki/%D9%85%D8%B5%D8%B1	fa	Q79	True	5
+fa-8316	582	4	تونس	http://fa.wikipedia.org/wiki/%D8%AA%D9%88%D9%86%D8%B3	fa	Q948	True	5
+fa-8399	37	9	هوگو چاوز	http://fa.wikipedia.org/wiki/%D9%87%D9%88%DA%AF%D9%88_%DA%86%D8%A7%D9%88%D8%B2	fa	Q8440	True	4
+fa-8399	223	7	کاراکاس	http://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D8%A7%DA%A9%D8%A7%D8%B3	fa	Q1533	True	5
+fa-8399	506	17	امپراتوری اسپانیا	http://fa.wikipedia.org/wiki/%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%DB%8C_%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%DB%8C%D8%A7	fa	Q80702	True	5
+fa-8486	508	23	دولت اقلیم کردستان عراق	http://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86_%D8%B9%D8%B1%D8%A7%D9%82	fa	Q205047	True	4
+fa-8508	55	12	سال ۱۵۲۳تبری	http://fa.wikipedia.org/wiki/%DA%AF%D8%A7%D9%87%E2%80%8C%D8%B4%D9%85%D8%A7%D8%B1%DB%8C_%D8%AA%D8%A8%D8%B1%DB%8C	fa	Q4115230	True	2
+fa-8508	71	8	مازندران	http://fa.wikipedia.org/wiki/%D9%85%D8%A7%D8%B2%D9%86%D8%AF%D8%B1%D8%A7%D9%86	fa	Q308864	True	5
+fa-8548	52	7	تل آویو	http://fa.wikipedia.org/wiki/%D8%AA%D9%84_%D8%A2%D9%88%DB%8C%D9%88	fa	Q33935	True	5
+fa-8556	172	6	پایتخت	http://fa.wikipedia.org/wiki/%D8%A8%D9%88%DB%8C%D9%86%D8%B3_%D8%A2%DB%8C%D8%B1%D8%B3	fa	Q1486	True	5
+fa-8603	36	10	حسنی مبارک	http://fa.wikipedia.org/wiki/%D8%AD%D8%B3%D9%86%DB%8C_%D9%85%D8%A8%D8%A7%D8%B1%DA%A9	fa	Q34105	True	4
+fa-8603	63	3	مصر	http://fa.wikipedia.org/wiki/%D9%85%D8%B5%D8%B1	fa	Q79	True	5
+fa-8620	104	4	لیبی	http://fa.wikipedia.org/wiki/%D9%84%DB%8C%D8%A8%DB%8C	fa	Q1016	True	5
+fa-8620	229	17	سیف‌الاسلام قذافی	http://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%81%E2%80%8C%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85_%D9%82%D8%B0%D8%A7%D9%81%DB%8C	fa	Q208135	True	3
+fa-8620	366	7	العربیه	http://fa.wikipedia.org/wiki/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%DB%8C%D9%87	fa	Q310172	True	4
+fa-8622	275	4	ناتو	http://fa.wikipedia.org/wiki/%D9%86%D8%A7%D8%AA%D9%88	fa	Q7184	True	5
+fa-8666	612	12	اتحادیهٔ عرب	http://fa.wikipedia.org/wiki/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87_%D8%B9%D8%B1%D8%A8	fa	Q7172	True	4
+fa-8690	747	11	سیف‌الاسلام	http://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%81%E2%80%8C%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85_%D9%82%D8%B0%D8%A7%D9%81%DB%8C	fa	Q208135	True	3
+fa-8759	119	14	اتحادیهٔ اروپا	http://fa.wikipedia.org/wiki/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87_%D8%A7%D8%B1%D9%88%D9%BE%D8%A7	fa	Q458	True	5
+fa-8786	247	4	هلند	http://fa.wikipedia.org/wiki/%D9%87%D9%84%D9%86%D8%AF	fa	Q55	True	5
+fa-8786	623	4	گوگل	http://fa.wikipedia.org/wiki/%DA%AF%D9%88%DA%AF%D9%84	fa	Q95	True	5
+fa-8786	629	4	یاهو	http://fa.wikipedia.org/wiki/%DB%8C%D8%A7%D9%87%D9%88	fa	Q37093	True	4
+fa-8786	635	7	فیس‌بوک	http://fa.wikipedia.org/wiki/%D9%81%DB%8C%D8%B3%E2%80%8C%D8%A8%D9%88%DA%A9	fa	Q355	True	5
+fa-8786	645	6	اسکایپ	http://fa.wikipedia.org/wiki/%D8%A7%D8%B3%DA%A9%D8%A7%DB%8C%D9%BE	fa	Q40984	True	4
+fa-8786	752	6	ایرانی	http://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86	fa	Q794	True	5
+fa-8786	1070	32	انتخابات دهمین دوره ریاست جمهوری	http://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA_%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA_%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_(%DB%B1%DB%B3%DB%B8%DB%B8)	fa	Q143304	True	4
+fa-8786	1231	9	خاورمیانه	http://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%88%D8%B1%D9%85%DB%8C%D8%A7%D9%86%D9%87	fa	Q7204	True	5
+fa-8789	43	20	تیم ملی فوتبال ایران	http://fa.wikipedia.org/wiki/%D8%AA%DB%8C%D9%85_%D9%85%D9%84%DB%8C_%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86	fa	Q184602	True	4
+fa-8789	79	3	قطر	http://fa.wikipedia.org/wiki/%D8%AA%DB%8C%D9%85_%D9%85%D9%84%DB%8C_%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84_%D9%82%D8%B7%D8%B1	fa	Q232731	True	4
+fa-8789	123	9	جام جهانی	http://fa.wikipedia.org/wiki/%D8%AC%D8%A7%D9%85_%D8%AC%D9%87%D8%A7%D9%86%DB%8C_%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84_%DB%B2%DB%B0%DB%B1%DB%B4	fa	Q79859	True	5
+fa-8789	174	7	اندونزی	http://fa.wikipedia.org/wiki/%D8%AA%DB%8C%D9%85_%D9%85%D9%84%DB%8C_%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84_%D8%A7%D9%86%D8%AF%D9%88%D9%86%D8%B2%DB%8C	fa	Q657451	True	4
+fa-8789	185	5	تهران	http://fa.wikipedia.org/wiki/%D8%AA%D9%87%D8%B1%D8%A7%D9%86	fa	Q3616	True	5
+fa-8789	221	17	ورزشگاه السد دوحه	http://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%B2%D8%B4%DA%AF%D8%A7%D9%87_%D8%AC%D8%A7%D8%B3%D9%85_%D8%A8%D9%86_%D8%AD%D9%85%D8%AF	fa	Q1073161	True	3
+fa-8789	287	11	جواد نکونام	http://fa.wikipedia.org/wiki/%D8%AC%D9%88%D8%A7%D8%AF_%D9%86%DA%A9%D9%88%D9%86%D8%A7%D9%85	fa	Q315008	True	3
+fa-8789	353	11	مازیار زارع	http://fa.wikipedia.org/wiki/%D9%85%D8%A7%D8%B2%DB%8C%D8%A7%D8%B1_%D8%B2%D8%A7%D8%B1%D8%B9	fa	Q3943890	True	2
+fa-8789	388	10	خسرو حیدری	http://fa.wikipedia.org/wiki/%D8%AE%D8%B3%D8%B1%D9%88_%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C	fa	Q6402540	True	2
+fa-8789	435	10	هادی عقیلی	http://fa.wikipedia.org/wiki/%D9%87%D8%A7%D8%AF%DB%8C_%D8%B9%D9%82%DB%8C%D9%84%DB%8C	fa	Q3125539	True	2
+fa-8789	716	5	بحرین	http://fa.wikipedia.org/wiki/%D8%AA%DB%8C%D9%85_%D9%85%D9%84%DB%8C_%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84_%D8%A8%D8%AD%D8%B1%DB%8C%D9%86	fa	Q210460	True	4
+fa-8795	506	6	ایمیلی	http://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%85%DB%8C%D9%84	fa	Q9158	True	5
+fa-8805	54	19	اعتراض‌کنندگان سوری	http://fa.wikipedia.org/wiki/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA_%D8%AF%D8%B1_%D8%B3%D9%88%D8%B1%DB%8C%D9%87_(%DB%B2%DB%B0%DB%B1%DB%B1)	fa	Q178810	True	5
+fa-8806	33	14	جواد نجم‌الدین	http://fa.wikipedia.org/wiki/%D8%AC%D9%88%D8%A7%D8%AF_%D9%86%D8%AC%D9%85%E2%80%8C%D8%A7%D9%84%D8%AF%DB%8C%D9%86	fa	Q5944401	False	1
+fa-8806	89	11	ایران خودرو	http://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D8%AE%D9%88%D8%AF%D8%B1%D9%88	fa	Q1343045	True	3
+fa-8813	61	7	اینترپل	http://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%BE%D9%84	fa	Q8475	True	4
+fa-8813	97	11	سیف‌الاسلام	http://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%81%E2%80%8C%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85_%D9%82%D8%B0%D8%A7%D9%81%DB%8C	fa	Q208135	True	3
+fa-9018	506	4	L2TP	http://en.wikipedia.org/wiki/L2TP	fa	Q546739	True	3
+fa-9018	515	4	PPTP	http://en.wikipedia.org/wiki/PPTP	fa	Q1163955	True	3
+fa-9068	334	9	نیروی قدس	http://fa.wikipedia.org/wiki/%D8%B3%D9%BE%D8%A7%D9%87_%D9%82%D8%AF%D8%B3	fa	Q311381	True	3
+fa-11092	57	9	فرنگی‌کار	http://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%DB%8C_%D9%81%D8%B1%D9%86%DA%AF%DB%8C	fa	Q389654	True	4
